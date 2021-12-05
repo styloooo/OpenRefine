@@ -1,1 +1,1014 @@
-"<!DOCTYPE html>\n<html lang=\"en-US\" class=\"html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_custom html_header_sticky html_header_shrinking html_header_topbar_active html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top html_header_stretch html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_240571 av-cookies-consent-show-message-bar av-cookies-cookie-consent-enabled av-cookies-can-opt-out av-cookies-user-silent-accept avia-cookie-check-browser-settings av-no-preview html_text_menu_active \">\n<head>\n    <meta charset=\"UTF-8\" />\n\t\n\n    <!-- mobile setting -->\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    <!-- Scripts/CSS and wp_head hook -->\n\t<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />\n\n\t\t\t\t<script type='text/javascript'>\n\n\t\t\t\tfunction avia_cookie_check_sessionStorage()\n\t\t\t\t{\n\t\t\t\t\t//\tFF throws error when all cookies blocked !!\n\t\t\t\t\tvar sessionBlocked = false;\n\t\t\t\t\ttry\n\t\t\t\t\t{\n\t\t\t\t\t\tvar test = sessionStorage.getItem( 'aviaCookieRefused' ) != null;\n\t\t\t\t\t}\n\t\t\t\t\tcatch(e)\n\t\t\t\t\t{\n\t\t\t\t\t\tsessionBlocked = true;\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\tvar aviaCookieRefused = ! sessionBlocked ? sessionStorage.getItem( 'aviaCookieRefused' ) : null;\n\t\t\t\t\t\n\t\t\t\t\tvar html = document.getElementsByTagName('html')[0];\n\n\t\t\t\t\t/**\n\t\t\t\t\t * Set a class to avoid calls to sessionStorage\n\t\t\t\t\t */\n\t\t\t\t\tif( sessionBlocked || aviaCookieRefused )\n\t\t\t\t\t{\n\t\t\t\t\t\tif( html.className.indexOf('av-cookies-session-refused') < 0 )\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\thtml.className += ' av-cookies-session-refused';\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\tif( sessionBlocked || aviaCookieRefused || document.cookie.match(/aviaCookieConsent/) )\n\t\t\t\t\t{\n\t\t\t\t\t\tif( html.className.indexOf('av-cookies-user-silent-accept') >= 0 )\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t html.className = html.className.replace(/\\bav-cookies-user-silent-accept\\b/g, '');\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t\tavia_cookie_check_sessionStorage();\n\n\t\t\t</script>\n\t\t\t\n\t<!-- This site is optimized with the Yoast SEO Premium plugin v16.9 (Yoast SEO v16.9) - https://yoast.com/wordpress/plugins/seo/ -->\n\t<title>INTERNATIONAL TYPEWRITER EXCHANGE INC - SAM Support</title>\n\t<link rel=\"canonical\" href=\"https://samsupport.net/registrations/003852910\" />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\" content=\"article\" />\n\t<meta property=\"og:title\" content=\"INTERNATIONAL TYPEWRITER EXCHANGE INC\" />\n\t<meta property=\"og:url\" content=\"https://samsupport.net/registrations/003852910\" />\n\t<meta property=\"og:site_name\" content=\"SAM Support\" />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://samsupport.net/#organization\",\"name\":\"Samsupport.net\",\"url\":\"https://samsupport.net/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://samsupport.net/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https://samsupport.net/wp-content/uploads/2017/12/samsupport_seal.png\",\"contentUrl\":\"https://samsupport.net/wp-content/uploads/2017/12/samsupport_seal.png\",\"width\":1000,\"height\":1000,\"caption\":\"Samsupport.net\"},\"image\":{\"@id\":\"https://samsupport.net/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://samsupport.net/#website\",\"url\":\"https://samsupport.net/\",\"name\":\"SAM Support\",\"description\":\"\",\"publisher\":{\"@id\":\"https://samsupport.net/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://samsupport.net/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://samsupport.net/registrations/003852910#webpage\",\"url\":\"https://samsupport.net/registrations/003852910\",\"name\":\"INTERNATIONAL TYPEWRITER EXCHANGE INC - SAM Support\",\"isPartOf\":{\"@id\":\"https://samsupport.net/#website\"},\"datePublished\":\"2021-05-14T07:17:47+00:00\",\"dateModified\":\"2021-05-14T07:17:47+00:00\",\"breadcrumb\":{\"@id\":\"https://samsupport.net/registrations/003852910#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://samsupport.net/registrations/003852910\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://samsupport.net/registrations/003852910#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://samsupport.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"INTERNATIONAL TYPEWRITER EXCHANGE INC\"}]}]}</script>\n\t<!-- / Yoast SEO Premium plugin. -->\n\n\n<link rel='dns-prefetch' href='//s.w.org' />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"SAM Support &raquo; Feed\" href=\"https://samsupport.net/feed\" />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"SAM Support &raquo; Comments Feed\" href=\"https://samsupport.net/comments/feed\" />\n<link rel='stylesheet' id='wp-block-library-css'  href='https://samsupport.net/wp-includes/css/dist/block-library/style.min.css?ver=5.8' type='text/css' media='all' />\n<link rel='stylesheet' id='theme-my-login-css'  href='https://samsupport.net/wp-content/plugins/theme-my-login/assets/styles/theme-my-login.min.css?ver=7.1.3' type='text/css' media='all' />\n<link rel='stylesheet' id='avia-merged-styles-css'  href='https://samsupport.net/wp-content/uploads/dynamic_avia/avia-merged-styles-dfba178f44ef421e2923982a2ed4c43b---6112edcb5a413.css' type='text/css' media='all' />\n<script type='text/javascript' src='https://samsupport.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-compat.js?ver=4.8.6.1' id='avia-compat-js'></script>\n<link rel=\"https://api.w.org/\" href=\"https://samsupport.net/wp-json/\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://samsupport.net/xmlrpc.php?rsd\" />\n<link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"https://samsupport.net/wp-includes/wlwmanifest.xml\" /> \n<meta name=\"generator\" content=\"WordPress 5.8\" />\n<link rel='shortlink' href='https://samsupport.net/?p=240571' />\n<link rel=\"alternate\" type=\"application/json+oembed\" href=\"https://samsupport.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsamsupport.net%2Fregistrations%2F003852910\" />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"https://samsupport.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsamsupport.net%2Fregistrations%2F003852910&#038;format=xml\" />\n\t<script type=\"text/javascript\" >\n\t\tfunction wpmautic_send(){\n\t\t\tif ('undefined' === typeof mt) {\n\t\t\t\tif (console !== undefined) {\n\t\t\t\t\tconsole.warn('WPMautic: mt not defined. Did you load mtc.js ?');\n\t\t\t\t}\n\t\t\t\treturn false;\n\t\t\t}\n\t\t\t// Add the mt('send', 'pageview') script with optional tracking attributes.\n\t\t\tmt('send', 'pageview');\n\t\t}\n\n\t\t\t(function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;\n\t\t\tw[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),\n\t\t\tm=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)\n\t\t})(window,document,'script','https://notify.fedaward.org/mtc.js','mt');\n\n\t\twpmautic_send();\n\t\t\t</script>\n\t<link rel=\"profile\" href=\"http://gmpg.org/xfn/11\" />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"SAM Support RSS2 Feed\" href=\"https://samsupport.net/feed\" />\n<link rel=\"pingback\" href=\"https://samsupport.net/xmlrpc.php\" />\n\n<style type='text/css' media='screen'>\n #top #header_main > .container, #top #header_main > .container .main_menu  .av-main-nav > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:100px; line-height: 100px; }\n .html_top_nav_header .av-logo-container{ height:100px;  }\n .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:130px; } \n</style>\n<!--[if lt IE 9]><script src=\"https://samsupport.net/wp-content/themes/enfold/js/html5shiv.js\"></script><![endif]-->\n<link rel=\"icon\" href=\"/wp-content/uploads/2017/12/favicon.ico\" type=\"image/x-icon\">\n<style type='text/css'>\n@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;\nsrc: url('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),\nurl('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),\nurl('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), \nurl('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg'),\nurl('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot'),\nurl('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype');\n} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }\n</style>\n\n<!--\nDebugging Info for Theme support: \n\nTheme: Enfold\nVersion: 4.8.6.1\nInstalled: enfold\nAviaFramework Version: 5.0\nAviaBuilder Version: 4.8\naviaElementManager Version: 1.0.1\n- - - - - - - - - - -\nChildTheme: SAM Support\nChildTheme Version: 1.0\nChildTheme Installed: enfold\n\nML:512-PU:30-PLA:13\nWP:5.8\nCompress: CSS:all theme files - JS:disabled\nUpdates: enabled - token has changed and not verified\nPLAu:13\n-->\n</head>\n\n\n\n\n<body id=\"top\" class=\"registrations-template-default single single-registrations postid-240571  rtl_columns stretched open_sans avia-responsive-images-support\" itemscope=\"itemscope\" itemtype=\"https://schema.org/WebPage\" >\n\n\n<div id='wrap_all'>\n\n\t\n<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_custom av_header_sticky av_header_shrinking av_header_stretch av_mobile_menu_phone av_header_searchicon av_header_unstick_top av_seperator_small_border av_bottom_nav_disabled  av_alternate_logo_active'  role=\"banner\" itemscope=\"itemscope\" itemtype=\"https://schema.org/WPHeader\" >\n\n\t\t<div id='header_meta' class='container_wrap container_wrap_meta  av_phone_active_left av_extra_header_active av_entry_id_240571'>\n\t\t\n\t\t\t      <div class='container'>\n\t\t\t      \t\t\t      </div>\n\t\t</div>\n\n\t\t<div  id='header_main' class='container_wrap container_wrap_logo'>\n\t\n        <div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='https://samsupport.net/'><img src=\"/wp-content/uploads/2017/12/samsupport_logo_full.png\" height=\"100\" width=\"300\" alt='SAM Support' title='' /></a></span><nav class='main_menu' data-selectname='Select a page'  role=\"navigation\" itemscope=\"itemscope\" itemtype=\"https://schema.org/SiteNavigationElement\" ><div class=\"avia-menu av-main-nav-wrap\"><ul id=\"avia-menu\" class=\"menu av-main-nav\"><li id=\"menu-item-250\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-top-level menu-item-top-level-1\"><a href=\"https://samsupport.net/\" itemprop=\"url\"><span class=\"avia-bullet\"></span><span class=\"avia-menu-text\">Home</span><span class=\"avia-menu-fx\"><span class=\"avia-arrow-wrap\"><span class=\"avia-arrow\"></span></span></span></a></li>\n<li id=\"menu-item-507\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2\"><a href=\"https://samsupport.net/services\" itemprop=\"url\"><span class=\"avia-bullet\"></span><span class=\"avia-menu-text\">Services</span><span class=\"avia-menu-fx\"><span class=\"avia-arrow-wrap\"><span class=\"avia-arrow\"></span></span></span></a></li>\n<li id=\"menu-item-511\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-3\"><a href=\"https://samsupport.net/support\" itemprop=\"url\"><span class=\"avia-bullet\"></span><span class=\"avia-menu-text\">Support</span><span class=\"avia-menu-fx\"><span class=\"avia-arrow-wrap\"><span class=\"avia-arrow\"></span></span></span></a></li>\n<li id=\"menu-item-508\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-4\"><a href=\"https://samsupport.net/contact\" itemprop=\"url\"><span class=\"avia-bullet\"></span><span class=\"avia-menu-text\">Contact</span><span class=\"avia-menu-fx\"><span class=\"avia-arrow-wrap\"><span class=\"avia-arrow\"></span></span></span></a></li>\n<li id=\"menu-item-search\" class=\"noMobile menu-item menu-item-search-dropdown menu-item-avia-special\"><a aria-label=\"Search\" href=\"?s=\" rel=\"nofollow\" data-avia-search-tooltip=\"\n\n&lt;form role=&quot;search&quot; action=&quot;https://samsupport.net/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;\n\t&lt;div&gt;\n\t\t&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;\n\t\t&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;\n\t\t\t&lt;/div&gt;\n&lt;/form&gt;\n\" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class=\"avia_hidden_link_text\">Search</span></a></li><li class=\"av-burger-menu-main menu-item-avia-special \">\n\t        \t\t\t<a href=\"#\" aria-label=\"Menu\" aria-hidden=\"false\">\n\t\t\t\t\t\t\t<span class=\"av-hamburger av-hamburger--spin av-js-hamburger\">\n\t\t\t\t\t\t\t\t<span class=\"av-hamburger-box\">\n\t\t\t\t\t\t          <span class=\"av-hamburger-inner\"></span>\n\t\t\t\t\t\t          <strong>Menu</strong>\n\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t<span class=\"avia_hidden_link_text\">Menu</span>\n\t\t\t\t\t\t</a>\n\t        \t\t   </li></ul></div></nav></div> </div> \n\t\t<!-- end container_wrap-->\n\t\t</div>\n\t\t<div class='header_bg'></div>\n\n<!-- end header -->\n</header>\n\n    <div id='main' class='all_colors' data-scroll-offset='100'>\n\n<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title '><a href='https://samsupport.net/registrations/003852910' rel='bookmark' title='Permanent Link: INTERNATIONAL TYPEWRITER EXCHANGE INC'  itemprop=\"headline\" >INTERNATIONAL TYPEWRITER EXCHANGE INC</a></h1><div class=\"breadcrumb breadcrumbs avia-breadcrumbs\"><div class=\"breadcrumb-trail\" ><span class=\"trail-before\"><span class=\"breadcrumb-title\">You are here:</span></span> <span  itemscope=\"itemscope\" itemtype=\"https://schema.org/BreadcrumbList\" ><span  itemscope=\"itemscope\" itemtype=\"https://schema.org/ListItem\" itemprop=\"itemListElement\" ><a itemprop=\"url\" href=\"https://samsupport.net\" title=\"SAM Support\" rel=\"home\" class=\"trail-begin\"><span itemprop=\"name\">Home</span></a><span itemprop=\"position\" class=\"hidden\">1</span></span></span> <span class=\"sep\">/</span> <span class=\"trail-end\">INTERNATIONAL TYPEWRITER EXCHANGE INC</span></div></div></div></div>\n    <!-- Google Charting Script -->\n    <div class='container_wrap container_wrap_first main_color fullsize'>\n        <div class='container'>\n            <main class='template-page content  av-content-full alpha units'  role=\"main\" itemprop=\"mainContentOfPage\" >\n\t\t\t\t\n\t\t<article class='post-entry post-entry-type-page post-entry-240571'  itemscope=\"itemscope\" itemtype=\"https://schema.org/CreativeWork\" >\n\n\t\t\t<div class=\"entry-content-wrapper clearfix\">\n                <header class=\"entry-content-header\"></header><div class=\"entry-content\"  itemprop=\"text\" ></div><footer class=\"entry-footer\"></footer>\t\t\t</div>\n\n\t\t</article><!--end post-entry-->\n\n\n                <div style=\"padding-bottom:10px;\" class=\"av-special-heading av-special-heading-h1  blockquote modern-quote modern-centered  avia-builder-el-0  avia-builder-el-no-sibling \">\n                    <h1 class=\"av-special-heading-tag\" >INTERNATIONAL TYPEWRITER EXCHANGE, INC.</h1>\n                    <div class=\"av-subheading av-subheading_below \" style=\"font-size:15px;\"><p>ITE DISTRIBUTING</p></div>\n                </div>\n                <hr style=\"padding-top: 20px; padding-bottom: 20px;\">\n                <div class=\"av-subheading av-subheading_below \" style=\"font-size:15px;\"><p><strong>Your Registration Expires:</strong> January, 05 2022</p></div>\n\t                        <div class=\"av-countdown-timer  av-align-center av-colored-style  avia-builder-el-0  avia-builder-el-no-sibling   av-countdown-active\" data-year=\"2022\" data-month=\"0\" data-day=\" 05 \" data-hour=\"0\" data-minute=\"0\" data-timezone=\"-240\" data-interval=\"1000\" data-maximum=\"5\"><span class=\"av-countdown-timer-inner\"><span class=\"av-countdown-cell av-countdown-weeks\"><span class=\"av-countdown-cell-inner\"><span class=\"av-countdown-time \" data-upate-width=\"weeks\" style=\"\">1</span><span class=\"av-countdown-time-label \" data-label=\"Week\" data-label-multi=\"Weeks\">Week</span></span></span><span class=\"av-countdown-cell av-countdown-days\"><span class=\"av-countdown-cell-inner\"><span class=\"av-countdown-time \" data-upate-width=\"days\" style=\"\">2</span><span class=\"av-countdown-time-label \" data-label=\"Day\" data-label-multi=\"Days\">Days</span></span></span><span class=\"av-countdown-cell av-countdown-hours\"><span class=\"av-countdown-cell-inner\"><span class=\"av-countdown-time \" data-upate-width=\"hours\" style=\"\">2</span><span class=\"av-countdown-time-label \" data-label=\"Hour\" data-label-multi=\"Hours\">Hours</span></span></span><span class=\"av-countdown-cell av-countdown-minutes\"><span class=\"av-countdown-cell-inner\"><span class=\"av-countdown-time \" data-upate-width=\"minutes\" style=\"\">34</span><span class=\"av-countdown-time-label \" data-label=\"Minute\" data-label-multi=\"Minutes\">Minutes</span></span></span><span class=\"av-countdown-cell av-countdown-seconds\"><span class=\"av-countdown-cell-inner\"><span class=\"av-countdown-time \" data-upate-width=\"seconds\" style=\"\">9</span><span class=\"av-countdown-time-label \" data-label=\"Second\" data-label-multi=\"Seconds\">Seconds</span></span></span></span></div>\n\t            \t\t\n        <div itemscope itemtype=\"http://schema.org/Organization\">\n                    <div class=\"hr hr-big  avia-builder-el-0  avia-builder-el-no-sibling \"><span class=\"hr-inner \"><span class=\"hr-inner-style\"></span></span></div>\n                    <div class=\"tabcontainer  sidebar_tab sidebar_tab_left border_tabs  avia-builder-el-0  avia-builder-el-no-sibling \" >\n                        <div class=\"tab_titles\"><div data-fake-id=\"#tab-id-2\" class=\"tab active_tab tab_counter_0\" >Basic Info</div>\n                                            <div data-fake-id=\"#tab-id-3\" class=\"tab  tab_counter_2\" >Government P.O.C.</div>\n                    \n                                            <div data-fake-id=\"#tab-id-4\" class=\"tab  tab_counter_3\" >Alt. Government P.O.C.</div>\n                    \n                                            <div data-fake-id=\"#tab-id-5\" class=\"tab  tab_counter_4\" >Past Performance P.O.C.</div>\n                    \n                                            <div data-fake-id=\"#tab-id-6\" class=\"tab  tab_counter_5\" >Alt. Past Performance P.O.C.</div>\n                    \n                                            <div data-fake-id=\"#tab-id-7\" class=\"tab  tab_counter_6\" >Electronic P.O.C.</div>\n                    \n                                            <div data-fake-id=\"#tab-id-8\" class=\"tab  tab_counter_7\" >Alt. Electronic P.O.C.</div>\n                    \n                        <div data-fake-id=\"#tab-id-9\" class=\"tab  tab_counter_8\" >NAICS Information</div><div data-fake-id=\"#tab-id-10\" class=\"tab  tab_counter_9\" >Disaster Response Codes</div><div data-fake-id=\"#tab-id-11\" class=\"tab  tab_counter_10\" >PSC Codes</div>\n                </div>\n\n                        <section class=\"av_tab_section\">    <div data-fake-id=\"#tab-id-1\" class=\"tab active_tab fullsize-tab\" >Basic Info</div>\n                            <div id=\"tab-id-1-container\" class=\"tab_content active_tab_content\" style=\"min-height: 613px;\">\n                                <div class=\"tab_inner_content invers-color\" >\n\n\t                                                                    <table>\n\n                                        <tr>\n                                            <td><strong>Legal Business Name</strong></td>\n                                            <td itemprop=\"legalName\">INTERNATIONAL TYPEWRITER EXCHANGE, INC.</td>\n                                        </tr>\n\n\t\t\t\t\t\t\t\t\t\t                                            <tr>\n                                                <td itemprop=\"alternateName\"><strong>DBA Name</strong></td>\n                                                <td>ITE DISTRIBUTING</td>\n                                            </tr>\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                                            <tr>\n                                                <td><strong>Registration Status</strong></td>\n                                                <td><span class=\"regactive\">Active</span></td>\n                                            </tr>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n                                        <tr>\n                                            <td><strong>Expiration Date</strong></td>\n                                            <td>January, 05 2022</td>\n                                        </tr>\n\n\n                                        <tr>\n                                            <td><strong>DUNS</strong></td>\n                                            <td itemprop=\"duns\">003852910</td>\n                                        </tr>\n\n                                        <tr>\n                                            <td><strong>DUNS +4</strong></td>\n                                            <td>0000</td>\n                                        </tr>\n\n                                        <tr>\n                                            <td><strong>CAGE</strong></td>\n                                            <td>6W47</td>\n                                        </tr>\n\n\t\t\t\t\t\t\t\t\t\t                                            <tr>\n                                                <td><strong>Primary NAICS</strong></td>\n                                                <td>423420 -\n\t\t\t\t\t\t\t\t\t\t\t\t\tOffice Equipment Merchant Wholesalers                                                 </td>\n                                            </tr>\n\t\t\t\t\t\t\t\t\t\t\n                                        <tr>\n                                            <td><strong>Corporate Structure</strong></td>\n                                            <td>2L                                            </td>\n                                        </tr>\n\n\n\n                                        <tr>\n                                            <td colspan=\"2\"><p align=\"center\"><strong>Physical Address</strong></p></td>\n\n                                        </tr>\n\n\t\t\t\t\t\t\t\t\t\t                                            <tr>\n                                                <td><strong>Business Started</strong></td>\n                                                <td itemprop=\"foundingDate\">October, 26 1915</td>\n                                            </tr>\n\n                                            <tr>\n                                                <td></td>\n                                                <td></td>\n                                            </tr>\n\t\t\t\t\t\t\t\t\t\t                                        <tr>\n                                            <td colspan=\"2\"><div><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe   width='100%'   height='100%'   frameborder='0' style='border:0'   src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBU4Wxqy9DMIiZ_r5qNIzFXpLnD16XQH8U&q=421 IRMEN DR U A ADDISON IL 60101 USA' allowfullscreen> </iframe></div></td>\n                                        </tr>\n\t\t\t\t\t\t\t\t\t\t                                            <tr>\n\n                                                <td itemprop=\"sameAs\" colspan=\"2\">\n                                                                                                    </td>\n                                            </tr>\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                                            <tr>\n                                                <td><strong>Congressional District</strong></td>\n                                                <td>8</td>\n                                            </tr>\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                                            <tr>\n                                                <td><strong>State of Incorporation</strong></td>\n                                                <td>IL</td>\n                                            </tr>\n\n\n\t\t\t\t\t\t\t\t\t\t\n                                    </table>\n\n                                </div>\n                            </div>\n                        </section>\n\t\t\t\t\t\t                            <section class=\"av_tab_section\">    <div data-fake-id=\"#tab-id-3\" class=\"tab  fullsize-tab\" >Government P.O.C.</div>\n                                <div id=\"tab-id-3-container\" class=\"tab_content \" style=\"min-height: 613px;\">\n                                    <div class=\"tab_inner_content invers-color\" >\n\t                                                                            <table itemscope itemtype=\"http://schema.org/ContactPoint\">\n                                            <tbody>\n\n                                            <a name=\"governmentpointofcontact\"></a>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>First Name</strong></td>\n                                                <td width=\"50%\" itemprop=\"name\">DOUGLAS NELSON</td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>Last Name</strong></td>\n                                                <td width=\"50%\" itemprop=\"alternateName\">NELSON</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td width=\"50%\" itemprop=\"jobTitle\"><strong>Title</strong></td>\n                                                    <td width=\"50%\">N/A</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n\n                                            <tr>\n                                                <td width=\"50%\" itemprop=\"email\"><strong>Email Address</strong></td>\n                                                <td width=\"50%\">DNelson@itedistributing.com</td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>US Phone</strong></td>\n                                                <td width=\"50%\" itemprop=\"telephone\">3127331200</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td><strong>Fax</strong></td>\n                                                    <td itemprop=\"faxNumber\">3127338241</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n\n                                            <tr>\n                                                <td colspan=\"2\" align=\"center\"><h4>Address on File</h4></td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>Street Address1</strong></td>\n                                                <td width=\"50%\">421 IRMEN DRIVE</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t\n                                                <tr>\n                                                    <td width=\"50%\"><strong>Line 2</strong></td>\n                                                    <td width=\"50%\">UNIT A</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n                                            <tr>\n                                                <td width=\"50%\"><strong>City</strong></td>\n                                                <td width=\"50%\">ADDISON</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td width=\"50%\"><strong>State</strong></td>\n                                                    <td width=\"50%\">IL</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n                                            <tr>\n                                                <td width=\"50%\"><strong>Zip/Postalcode</strong></td>\n                                                <td width=\"50%\">60101-0\t\t\t\t\t\t\t\t\t\t\t\t\t                                                </td>\n                                            </tr>\n\n                                            </tbody>\n                                        </table>\n\n                                    </div>\n                                </div>\n                            </section>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t                            <section class=\"av_tab_section\">    <div data-fake-id=\"#tab-id-5\" class=\"tab  fullsize-tab\" >Past Performance P.O.C.</div>\n                                <div id=\"tab-id-5-container\" class=\"tab_content \" style=\"min-height: 613px;\">\n                                    <div class=\"tab_inner_content invers-color\" >\n\t                                                                            <table itemscope itemtype=\"http://schema.org/ContactPoint\">\n                                            <tbody>\n\n                                            <a name=\"governmentpointofcontact\"></a>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>First Name</strong></td>\n                                                <td width=\"50%\" itemprop=\"name\">DOUGLAS NELSON</td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>Last Name</strong></td>\n                                                <td width=\"50%\" itemprop=\"alternateName\">NELSON</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td width=\"50%\" itemprop=\"jobTitle\"><strong>Title</strong></td>\n                                                    <td width=\"50%\">N/A</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n\n                                            <tr>\n                                                <td width=\"50%\" itemprop=\"email\"><strong>Email Address</strong></td>\n                                                <td width=\"50%\">DNelson@itedistributing.com</td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>US Phone</strong></td>\n                                                <td width=\"50%\" itemprop=\"telephone\">3127331200</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td><strong>Fax</strong></td>\n                                                    <td itemprop=\"faxNumber\">3127338241</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n\n                                            <tr>\n                                                <td colspan=\"2\" align=\"center\"><h4>Address on File</h4></td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>Street Address3</strong></td>\n                                                <td width=\"50%\">421 IRMEN DRIVE</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t\n                                                <tr>\n                                                    <td width=\"50%\"><strong>Line 2</strong></td>\n                                                    <td width=\"50%\">UNIT A</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n                                            <tr>\n                                                <td width=\"50%\"><strong>City</strong></td>\n                                                <td width=\"50%\">ADDISON</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td width=\"50%\"><strong>State</strong></td>\n                                                    <td width=\"50%\">IL</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n                                            <tr>\n                                                <td width=\"50%\"><strong>Zip/Postalcode</strong></td>\n                                                <td width=\"50%\">60101                                                </td>\n                                            </tr>\n\n                                            </tbody>\n                                        </table>\n\n                                    </div>\n                                </div>\n                            </section>\n\t\t\t\t\t\t\t\t\t\t\t\t                            <section class=\"av_tab_section\">    <div data-fake-id=\"#tab-id-6\" class=\"tab  fullsize-tab\" >Alt Past Perfocmane P.O.C.</div>\n                                <div id=\"tab-id-6-container\" class=\"tab_content \" style=\"min-height: 613px;\">\n                                    <div class=\"tab_inner_content invers-color\" >\n\t                                                                            <table itemscope itemtype=\"http://schema.org/ContactPoint\">\n                                            <tbody>\n\n                                            <a name=\"governmentpointofcontact\"></a>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>First Name</strong></td>\n                                                <td width=\"50%\" itemprop=\"name\">DOUGLAS NELSON</td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>Last Name</strong></td>\n                                                <td width=\"50%\" itemprop=\"alternateName\">NELSON</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td width=\"50%\" itemprop=\"jobTitle\"><strong>Title</strong></td>\n                                                    <td width=\"50%\">N/A</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n\n                                            <tr>\n                                                <td width=\"50%\" itemprop=\"email\"><strong>Email Address</strong></td>\n                                                <td width=\"50%\">DNelson@itedistributing.com</td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>US Phone</strong></td>\n                                                <td width=\"50%\" itemprop=\"telephone\">3127331200</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td><strong>Fax</strong></td>\n                                                    <td itemprop=\"faxNumber\">3127338241</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n\n                                            <tr>\n                                                <td colspan=\"2\" align=\"center\"><h4>Address on File</h4></td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>Street Address4</strong></td>\n                                                <td width=\"50%\">421 IRMEN DRIVE</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t\n                                                <tr>\n                                                    <td width=\"50%\"><strong>Line 2</strong></td>\n                                                    <td width=\"50%\">UNIT A</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n                                            <tr>\n                                                <td width=\"50%\"><strong>City</strong></td>\n                                                <td width=\"50%\">ADDISON</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td width=\"50%\"><strong>State</strong></td>\n                                                    <td width=\"50%\">IL</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n                                            <tr>\n                                                <td width=\"50%\"><strong>Zip/Postalcode</strong></td>\n                                                <td width=\"50%\">60101-0\t\t\t\t\t\t\t\t\t\t\t\t\t                                                </td>\n                                            </tr>\n\n                                            </tbody>\n                                        </table>\n\n                                    </div>\n                                </div>\n                            </section>\n\t\t\t\t\t\t\t\t\t\t\t\t                            <section class=\"av_tab_section\">    <div data-fake-id=\"#tab-id-7\" class=\"tab  fullsize-tab\" >Electronic P.O.C.</div>\n                                <div id=\"tab-id-7-container\" class=\"tab_content \" style=\"min-height: 613px;\">\n                                    <div class=\"tab_inner_content invers-color\" >\n\t                                                                            <table itemscope itemtype=\"http://schema.org/ContactPoint\">\n                                            <tbody>\n\n                                            <a name=\"governmentpointofcontact\"></a>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>First Name</strong></td>\n                                                <td width=\"50%\" itemprop=\"name\">DOUGLAS NELSON</td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>Last Name</strong></td>\n                                                <td width=\"50%\" itemprop=\"alternateName\">NELSON</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td width=\"50%\" itemprop=\"jobTitle\"><strong>Title</strong></td>\n                                                    <td width=\"50%\">N/A</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n\n                                            <tr>\n                                                <td width=\"50%\" itemprop=\"email\"><strong>Email Address</strong></td>\n                                                <td width=\"50%\">DNelson@itedistributing.com</td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>US Phone</strong></td>\n                                                <td width=\"50%\" itemprop=\"telephone\">3127331200</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td><strong>Fax</strong></td>\n                                                    <td itemprop=\"faxNumber\">3127338241</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n\n                                            <tr>\n                                                <td colspan=\"2\" align=\"center\"><h4>Address on File</h4></td>\n                                            </tr>\n\n                                            <tr>\n                                                <td width=\"50%\"><strong>Street Address5</strong></td>\n                                                <td width=\"50%\">421 IRMEN DRIVE</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t\n                                                <tr>\n                                                    <td width=\"50%\"><strong>Line 2</strong></td>\n                                                    <td width=\"50%\">UNIT</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n                                            <tr>\n                                                <td width=\"50%\"><strong>City</strong></td>\n                                                <td width=\"50%\">ADDISON</td>\n                                            </tr>\n\n\t\t\t\t\t\t\t\t\t\t\t                                                <tr>\n                                                    <td width=\"50%\"><strong>State</strong></td>\n                                                    <td width=\"50%\">IL</td>\n                                                </tr>\n\t\t\t\t\t\t\t\t\t\t\t\n                                            <tr>\n                                                <td width=\"50%\"><strong>Zip/Postalcode</strong></td>\n                                                <td width=\"50%\">60101-0\t\t\t\t\t\t\t\t\t\t\t\t\t                                                </td>\n                                            </tr>\n\n                                            </tbody>\n                                        </table>\n\n                                    </div>\n                                </div>\n                            </section>\n\t\t\t\t\t\t\n                        <section class=\"av_tab_section\">    <div data-fake-id=\"#tab-id-9\" class=\"tab  fullsize-tab\" >NAICS Information</div>\n                            <div id=\"tab-id-9-container\" class=\"tab_content \" style=\"min-height: 613px;\">\n                                <div class=\"tab_inner_content invers-color\" >\n\t                                                                    <table>\n                                        <thead>\n                                        <th colspan=\"2\"><strong>NAICS Codes</strong></th>\n                                        </thead>\n                                        <tbody>\n                                        </tbody>\n                                    </table>\n\n                                </div>\n                            </div>\n                        </section>\n\n                        <section class=\"av_tab_section\"\">    <div data-fake-id=\"#tab-id-11\" class=\"tab  fullsize-tab\" >Disaster Response Codes</div>\n                        <div id=\"tab-id-11-container\" class=\"tab_content \" style=\"min-height: 613px;\">\n                            <div class=\"tab_inner_content invers-color\" >\n\t                                                            <table>\n                                    <thead>\n                                    <th><strong>Disaster Response Codes</strong></th>\n                                    </thead>\n                                    <tbody>\n\t\t\t\t\t\t\t\t\t<tr><td>N/A</td></tr>\n                                    </tbody>\n                                </table>\n\n                            </div>\n                        </div>\n                        </section>\n\n                        <section class=\"av_tab_section\">    <div data-fake-id=\"#tab-id-12\" class=\"tab  fullsize-tab\" >PSC Codes</div>\n                            <div id=\"tab-id-12-container\" class=\"tab_content \" style=\"min-height: 613px;\">\n                                <div class=\"tab_inner_content invers-color\" >\n\t\t                                    <table>\n                                        <thead>\n                                        <th colspan=\"2\"><strong>PSC Codes</strong></th>\n                                        </thead>\n                                        <tbody>\n\t\t\t\t\t\t\t\t\t\t                                        </tbody>\n                                    </table>\n                                </div>\n                            </div>\n                        </section>\n                    </div>\n\n                    <!-- On document.ready, then populate the award count via AJAX. Had to scope jQuery here as $ was being overwritten by another library -->\n\n\n                </div>\n\n                <!--end content-->\n            </main>\n\n\t\t\t        </div><!--end container-->\n    </div>\n    <!-- close default .container_wrap element -->\n    <!-- Global site tag (gtag.js) - Google Analytics -->\n\n\n\n\t\n        <footer class='container_wrap socket_color' id='socket'  role=\"contentinfo\" itemscope=\"itemscope\" itemtype=\"https://schema.org/WPFooter\" >\n            <div class='container'>\n\n                <span class='copyright'>© Copyright 2021 - SAM Support | Samsupport.net</span>\n\n\t\t\t\t\n            </div>\n\n            <!-- ####### END SOCKET CONTAINER ####### -->\n        </footer>\n\n\n\t\t<!-- end main -->\n</div>\n\n<a class='avia-post-nav avia-post-prev without-image' href='https://samsupport.net/registrations/003852019' >    <span class='label iconfont' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>    <span class='entry-info-wrap'>        <span class='entry-info'>            <span class='entry-title'>OZARKS ELECTRIC COOPERATIVE CORPORATION</span>        </span>    </span></a><a class='avia-post-nav avia-post-next without-image' href='https://samsupport.net/registrations/003860129' >    <span class='label iconfont' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>    <span class='entry-info-wrap'>        <span class='entry-info'>            <span class='entry-title'>WEST CENTRAL ELECTRIC COOPERATIVE INC</span>        </span>    </span></a><!-- end wrap_all --></div>\n\n<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class=\"avia_hidden_link_text\">Scroll to top</span></a>\n\n<div id=\"fb-root\"></div>\n\n<div class=\"avia-cookie-consent-wrap\" aria-hidden=\"true\"><div class='avia-cookie-consent cookiebar-hidden  avia-cookiemessage-bottom'  aria-hidden='true'  data-contents='18ce70fe03b6e8e823626e2cbc8b2a7a||v1.0' ><div class=\"container\"><p class='avia_cookie_text'>This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.</p><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-1  avia-cookie-close-bar ' >OK</a><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-2 av-extra-cookie-btn  avia-cookie-info-btn ' >Learn more</a></div></div><div id='av-consent-extra-info' class='av-inline-modal main_color avia-hide-popup-close'>\n<style type=\"text/css\" data-created_by=\"avia_inline_auto\" id=\"style-css-av-av_heading-e9726c5b3ba47c61a37656c1e7d02a7a\">\n#top .av-special-heading.av-av_heading-e9726c5b3ba47c61a37656c1e7d02a7a{\nmargin:10px 0 0 0;\npadding-bottom:10px;\n}\n</style>\n<div  class='av-special-heading av-av_heading-e9726c5b3ba47c61a37656c1e7d02a7a av-special-heading-h3 blockquote modern-quote '><h3 class='av-special-heading-tag '  itemprop=\"headline\"  >Cookie and Privacy Settings</h3><div class='special-heading-border'><div class='special-heading-inner-border'></div></div></div><br />\n<style type=\"text/css\" data-created_by=\"avia_inline_auto\" id=\"style-css-av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9\">\n#top .hr.av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9{\nmargin-top:0px;\nmargin-bottom:0px;\n}\n.hr.av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9 .hr-inner{\nwidth:100%;\n}\n</style>\n<div  class='hr av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9 hr-custom hr-left hr-icon-no '><span class='hr-inner inner-border-av-border-thin'><span class=\"hr-inner-style\"></span></span></div><br /><div  class=\"tabcontainer   sidebar_tab sidebar_tab_left noborder_tabs \" role=\"tablist\">\n<section class=\"av_tab_section\" ><div aria-controls=\"tab-id-1-content\" role=\"tab\" tabindex=\"0\" data-fake-id=\"#tab-id-1\" class=\"tab active_tab\" >How we use cookies</div>\n<div id=\"tab-id-1-content\" class=\"tab_content active_tab_content\" aria-hidden=\"false\">\n<div class=\"tab_inner_content invers-color\" >\n<p>We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. </p>\n<p>Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.</p>\n\n</div>\n</div>\n</section>\n<section class=\"av_tab_section\" ><div aria-controls=\"tab-id-2-content\" role=\"tab\" tabindex=\"0\" data-fake-id=\"#tab-id-2\" class=\"tab \" >Essential Website Cookies</div>\n<div id=\"tab-id-2-content\" class=\"tab_content \" aria-hidden=\"true\">\n<div class=\"tab_inner_content invers-color\" >\n<p>These cookies are strictly necessary to provide you with services available through our website and to use some of its features.</p>\n<p>Because these cookies are strictly necessary to deliver the website, refuseing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.</p>\n<p>We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.</p>\n<p>We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.</p>\n<div class=\"av-switch-aviaPrivacyRefuseCookiesHideBar av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-checked av-cookie-default-checked\"><label><input type=\"checkbox\" checked=\"checked\" id=\"aviaPrivacyRefuseCookiesHideBar\" class=\"aviaPrivacyRefuseCookiesHideBar \" name=\"aviaPrivacyRefuseCookiesHideBar\" ><span class=\"toggle-track\"></span><span class=\"toggle-label-content\">Check to enable permanent hiding of message bar and refuse all cookies if you do not opt in. We need 2 cookies to store this setting. Otherwise you will be prompted again when opening a new browser window or new a tab.</span></label></div>\n<div class=\"av-switch-aviaPrivacyEssentialCookiesEnabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-checked av-cookie-default-checked\"><label><input type=\"checkbox\" checked=\"checked\" id=\"aviaPrivacyEssentialCookiesEnabled\" class=\"aviaPrivacyEssentialCookiesEnabled \" name=\"aviaPrivacyEssentialCookiesEnabled\" ><span class=\"toggle-track\"></span><span class=\"toggle-label-content\">Click to enable/disable essential site cookies.</span></label></div>\n\n</div>\n</div>\n</section>\n<section class=\"av_tab_section\" ><div aria-controls=\"tab-id-3-content\" role=\"tab\" tabindex=\"0\" data-fake-id=\"#tab-id-3\" class=\"tab \" >Google Analytics Cookies</div>\n<div id=\"tab-id-3-content\" class=\"tab_content \" aria-hidden=\"true\">\n<div class=\"tab_inner_content invers-color\" >\n<p>These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.</p>\n<p>If you do not want that we track your visit to our site you can disable tracking in your browser here:</p>\n<div data-disabled_by_browser=\"Please enable this feature in your browser settings and reload the page.\" class=\"av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked\"><label><input type=\"checkbox\" checked=\"checked\" id=\"aviaPrivacyGoogleTrackingDisabled\" class=\"aviaPrivacyGoogleTrackingDisabled \" name=\"aviaPrivacyGoogleTrackingDisabled\" ><span class=\"toggle-track\"></span><span class=\"toggle-label-content\">Click to enable/disable Google Analytics tracking.</span></label></div>\n\n</div>\n</div>\n</section>\n<section class=\"av_tab_section\" ><div aria-controls=\"tab-id-4-content\" role=\"tab\" tabindex=\"0\" data-fake-id=\"#tab-id-4\" class=\"tab \" >Other external services</div>\n<div id=\"tab-id-4-content\" class=\"tab_content \" aria-hidden=\"true\">\n<div class=\"tab_inner_content invers-color\" >\n<p>We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.</p>\n<p>Google Webfont Settings:</p>\n<div class=\"av-switch-aviaPrivacyGoogleWebfontsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked\"><label><input type=\"checkbox\" checked=\"checked\" id=\"aviaPrivacyGoogleWebfontsDisabled\" class=\"aviaPrivacyGoogleWebfontsDisabled \" name=\"aviaPrivacyGoogleWebfontsDisabled\" ><span class=\"toggle-track\"></span><span class=\"toggle-label-content\">Click to enable/disable Google Webfonts.</span></label></div>\n<p>Google Map Settings:</p>\n<div class=\"av-switch-aviaPrivacyGoogleMapsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked\"><label><input type=\"checkbox\" checked=\"checked\" id=\"aviaPrivacyGoogleMapsDisabled\" class=\"aviaPrivacyGoogleMapsDisabled \" name=\"aviaPrivacyGoogleMapsDisabled\" ><span class=\"toggle-track\"></span><span class=\"toggle-label-content\">Click to enable/disable Google Maps.</span></label></div>\n<p>Google reCaptcha Settings:</p>\n<div class=\"av-switch-aviaPrivacyGoogleReCaptchaDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked\"><label><input type=\"checkbox\" checked=\"checked\" id=\"aviaPrivacyGoogleReCaptchaDisabled\" class=\"aviaPrivacyGoogleReCaptchaDisabled \" name=\"aviaPrivacyGoogleReCaptchaDisabled\" ><span class=\"toggle-track\"></span><span class=\"toggle-label-content\">Click to enable/disable Google reCaptcha.</span></label></div>\n<p>Vimeo and Youtube video embeds:</p>\n<div class=\"av-switch-aviaPrivacyVideoEmbedsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked\"><label><input type=\"checkbox\" checked=\"checked\" id=\"aviaPrivacyVideoEmbedsDisabled\" class=\"aviaPrivacyVideoEmbedsDisabled \" name=\"aviaPrivacyVideoEmbedsDisabled\" ><span class=\"toggle-track\"></span><span class=\"toggle-label-content\">Click to enable/disable video embeds.</span></label></div>\n\n</div>\n</div>\n</section>\n<section class=\"av_tab_section\" ><div aria-controls=\"tab-id-5-content\" role=\"tab\" tabindex=\"0\" data-fake-id=\"#tab-id-5\" class=\"tab \" >Other cookies</div>\n<div id=\"tab-id-5-content\" class=\"tab_content \" aria-hidden=\"true\">\n<div class=\"tab_inner_content invers-color\" >\n<p>The following cookies are also needed - You can choose if you want to allow them:</p>\n<div class=\"av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked\"><label><input type=\"checkbox\" checked=\"checked\" id=\"aviaPrivacyGoogleTrackingDisabled\" class=\"aviaPrivacyGoogleTrackingDisabled \" name=\"aviaPrivacyGoogleTrackingDisabled\" ><span class=\"toggle-track\"></span><span class=\"toggle-label-content\">Click to enable/disable _ga - Google Analytics Cookie.</span></label></div>\n<div class=\"av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked\"><label><input type=\"checkbox\" checked=\"checked\" id=\"aviaPrivacyGoogleTrackingDisabled\" class=\"aviaPrivacyGoogleTrackingDisabled \" name=\"aviaPrivacyGoogleTrackingDisabled\" ><span class=\"toggle-track\"></span><span class=\"toggle-label-content\">Click to enable/disable _gid - Google Analytics Cookie.</span></label></div>\n<div class=\"av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked\"><label><input type=\"checkbox\" checked=\"checked\" id=\"aviaPrivacyGoogleTrackingDisabled\" class=\"aviaPrivacyGoogleTrackingDisabled \" name=\"aviaPrivacyGoogleTrackingDisabled\" ><span class=\"toggle-track\"></span><span class=\"toggle-label-content\">Click to enable/disable _gat_* - Google Analytics Cookie.</span></label></div>\n\n</div>\n</div>\n</section>\n<section class=\"av_tab_section\" ><div aria-controls=\"tab-id-6-content\" role=\"tab\" tabindex=\"0\" data-fake-id=\"#tab-id-6\" class=\"tab \" >Privacy Policy</div>\n<div id=\"tab-id-6-content\" class=\"tab_content \" aria-hidden=\"true\">\n<div class=\"tab_inner_content invers-color\" >\n<p>You can read about our cookies and privacy settings in detail on our Privacy Policy Page. </p>\n<a href='https://samsupport.net/your-privacy' target='_blank'>Your Privacy</a>\n\n</div>\n</div>\n</section>\n</div>\n<div class=\"avia-cookie-consent-modal-buttons-wrap\"><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-3  avia-cookie-close-bar avia-cookie-consent-modal-button'  title=\"Allow to use cookies, you always can modify used cookies and services\" >Accept settings</a><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-4 av-extra-cookie-btn avia-cookie-consent-modal-button avia-cookie-hide-notification'  title=\"Do not allow to use cookies or services - some functionality on our site might not work as expected.\" >Hide notification only</a></div></div></div>\t<noscript>\n\t\t<img src=\"https://notify.fedaward.org/mtracking.gif?d=YTo0OntzOjg6Imxhbmd1YWdlIjtzOjU6ImVuX1VTIjtzOjg6InBhZ2VfdXJsIjtzOjEwOToiaHR0cHM6Ly9zYW1zdXBwb3J0Lm5ldC9yZWdpc3RyYXRpb25zLzAwMzg1MjkxMD9yZWdpc3RyYXRpb25zPTAwMzg1MjkxMCZwb3N0X3R5cGU9cmVnaXN0cmF0aW9ucyZuYW1lPTAwMzg1MjkxMCI7czoxMDoicGFnZV90aXRsZSI7czo1NzoiSU5URVJOQVRJT05BTCBUWVBFV1JJVEVSIEVYQ0hBTkdFIElOQyAmIzgyMTE7IFNBTSBTdXBwb3J0IjtzOjg6InJlZmVycmVyIjtzOjEwOToiaHR0cHM6Ly9zYW1zdXBwb3J0Lm5ldC9yZWdpc3RyYXRpb25zLzAwMzg1MjkxMD9yZWdpc3RyYXRpb25zPTAwMzg1MjkxMCZwb3N0X3R5cGU9cmVnaXN0cmF0aW9ucyZuYW1lPTAwMzg1MjkxMCI7fQ%3D%3D\" style=\"display:none;\" alt=\"Mautic Tags\" />\n\t</noscript>\n\t\n <script type='text/javascript'>\n /* <![CDATA[ */  \nvar avia_framework_globals = avia_framework_globals || {};\n    avia_framework_globals.frameworkUrl = 'https://samsupport.net/wp-content/themes/enfold/framework/';\n    avia_framework_globals.installedAt = 'https://samsupport.net/wp-content/themes/enfold/';\n    avia_framework_globals.ajaxurl = 'https://samsupport.net/wp-admin/admin-ajax.php';\n/* ]]> */ \n</script>\n \n <!-- Matomo -->\n<script type=\"text/javascript\">\n  var _paq = window._paq = window._paq || [];\n  /* tracker methods like \"setCustomDimension\" should be called before \"trackPageView\" */\n  _paq.push(['trackPageView']);\n  _paq.push(['enableLinkTracking']);\n  (function() {\n    var u=\"//matomo.samsupport.net/\";\n    _paq.push(['setTrackerUrl', u+'matomo.php']);\n    _paq.push(['setSiteId', '1']);\n    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];\n    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);\n  })();\n</script>\n<!-- End Matomo Code -->\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia.js?ver=4.8.6.1' id='avia-default-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/shortcodes.js?ver=4.8.6.1' id='avia-shortcodes-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.js?ver=5.8' id='avia-module-audioplayer-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.js?ver=5.8' id='avia-module-contact-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=5.8' id='avia-module-slideshow-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.js?ver=5.8' id='avia-module-countdown-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=5.8' id='avia-module-gallery-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.js?ver=5.8' id='avia-module-gallery-hor-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.js?ver=5.8' id='avia-module-rotator-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.js?ver=5.8' id='avia-module-icongrid-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.js?ver=5.8' id='avia-module-iconlist-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.js?ver=5.8' id='avia-module-hotspot-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.js?ver=5.8' id='avia-module-magazine-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.js?ver=5.8' id='avia-module-isotope-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.js?ver=5.8' id='avia-module-masonry-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.js?ver=5.8' id='avia-module-menu-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.js?ver=5.8' id='avia-module-notification-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.js?ver=5.8' id='avia-module-numbers-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.js?ver=5.8' id='avia-module-portfolio-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.js?ver=5.8' id='avia-module-progress-bar-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=5.8' id='avia-module-slideshow-video-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.js?ver=5.8' id='avia-module-slideshow-accordion-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.js?ver=5.8' id='avia-module-slideshow-fullscreen-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.js?ver=5.8' id='avia-module-slideshow-ls-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.js?ver=5.8' id='avia-module-tabsection-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=5.8' id='avia-module-tabs-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=5.8' id='avia-module-testimonials-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.js?ver=5.8' id='avia-module-timeline-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=5.8' id='avia-module-toggles-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=5.8' id='avia-module-video-js'></script>\n<script type='text/javascript' id='theme-my-login-js-extra'>\n/* <![CDATA[ */\nvar themeMyLogin = {\"action\":\"\",\"errors\":[]};\n/* ]]> */\n</script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/plugins/theme-my-login/assets/scripts/theme-my-login.min.js?ver=7.1.3' id='theme-my-login-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-snippet-hamburger-menu.js?ver=4.8.6.1' id='avia-hamburger-menu-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.8.6.1' id='avia-popup-js-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=4.8.6.1' id='avia-lightbox-activation-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=4.8.6.1' id='avia-sticky-header-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=4.8.6.1' id='avia-widget-js-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.js?ver=4.8.6.1' id='avia_blocks_front_script-js'></script>\n<script type='text/javascript' id='avia-cookie-js-js-extra'>\n/* <![CDATA[ */\nvar AviaPrivacyCookieConsent = {\"?\":\"Usage unknown\",\"aviaCookieConsent\":\"Use and storage of Cookies has been accepted - restrictions set in other cookies\",\"aviaPrivacyRefuseCookiesHideBar\":\"Hide cookie message bar on following page loads and refuse cookies if not allowed - aviaPrivacyEssentialCookiesEnabled must be set\",\"aviaPrivacyEssentialCookiesEnabled\":\"Allow storage of site essential cookies and other cookies and use of features if not opt out\",\"aviaPrivacyVideoEmbedsDisabled\":\"Do not allow video embeds\",\"aviaPrivacyGoogleTrackingDisabled\":\"needed to remove cookie _gat_ (Stores information needed by Google Analytics)\",\"aviaPrivacyGoogleWebfontsDisabled\":\"Do not allow Google Webfonts\",\"aviaPrivacyGoogleMapsDisabled\":\"Do not allow Google Maps\",\"aviaPrivacyGoogleReCaptchaDisabled\":\"Do not allow Google reCaptcha\",\"aviaPrivacyMustOptInSetting\":\"Settings are for users that must opt in for cookies and services\",\"PHPSESSID\":\"Operating site internal cookie - Keeps track of your session\",\"XDEBUG_SESSION\":\"Operating site internal cookie - PHP Debugger session cookie\",\"wp-settings*\":\"Operating site internal cookie\",\"wordpress*\":\"Operating site internal cookie\",\"tk_ai*\":\"Shop internal cookie\",\"woocommerce*\":\"Shop internal cookie\",\"wp_woocommerce*\":\"Shop internal cookie\",\"wp-wpml*\":\"Needed to manage different languages\",\"_ga\":\"Stores information needed by Google Analytics\",\"_gid\":\"Stores information needed by Google Analytics\",\"_gat_*\":\"Stores information needed by Google Analytics\"};\nvar AviaPrivacyCookieAdditionalData = {\"cookie_refuse_button_alert\":\"When refusing all cookies this site might not be able to work as expected. Please check our settings page and opt out for cookies or functions you do not want to use and accept cookies. You will be shown this message every time you open a new window or a new tab.\\\\n\\\\nAre you sure you want to continue?\",\"no_cookies_found\":\"No accessable cookies found in domain\",\"admin_keep_cookies\":[\"PHPSESSID\",\"wp-*\",\"wordpress*\",\"XDEBUG*\"],\"remove_custom_cookies\":{\"1\":{\"cookie_name\":\"_ga\",\"cookie_path\":\"\\/\",\"cookie_content\":\"Google Analytics Cookie\",\"cookie_info_desc\":\"Stores information needed by Google Analytics\",\"cookie_compare_action\":\"\",\"avia_cookie_name\":\"aviaPrivacyGoogleTrackingDisabled\"},\"2\":{\"cookie_name\":\"_gid\",\"cookie_path\":\"\\/\",\"cookie_content\":\"Google Analytics Cookie\",\"cookie_info_desc\":\"Stores information needed by Google Analytics\",\"cookie_compare_action\":\"\",\"avia_cookie_name\":\"aviaPrivacyGoogleTrackingDisabled\"},\"3\":{\"cookie_name\":\"_gat_\",\"cookie_path\":\"\\/\",\"cookie_content\":\"Google Analytics Cookie\",\"cookie_info_desc\":\"Stores information needed by Google Analytics\",\"cookie_compare_action\":\"starts_with\",\"avia_cookie_name\":\"aviaPrivacyGoogleTrackingDisabled\"}},\"no_lightbox\":\"We need a lightbox to show the modal popup. Please enable the built in lightbox in Theme Options Tab or include your own modal window plugin.\\\\n\\\\nYou need to connect this plugin in JavaScript with callback wrapper functions - see avia_cookie_consent_modal_callback in file enfold\\\\js\\\\avia-snippet-cookieconsent.js \"};\n/* ]]> */\n</script>\n<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-snippet-cookieconsent.js?ver=4.8.6.1' id='avia-cookie-js-js'></script>\n<script type='text/javascript' src='https://samsupport.net/wp-includes/js/wp-embed.min.js?ver=5.8' id='wp-embed-js'></script>\n<script type='text/javascript'>function av_privacy_cookie_setter( cookie_name ) {var cookie_check = jQuery('html').hasClass('av-cookies-needs-opt-in') || jQuery('html').hasClass('av-cookies-can-opt-out');var toggle = jQuery('.' + cookie_name);toggle.each(function(){var container = jQuery(this).closest('.av-toggle-switch');if( cookie_check && ! document.cookie.match(/aviaCookieConsent/) ){this.checked = container.hasClass( 'av-cookie-default-checked' );}else if( cookie_check && document.cookie.match(/aviaCookieConsent/) && ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) && cookie_name != 'aviaPrivacyRefuseCookiesHideBar' ){if( cookie_name == 'aviaPrivacyEssentialCookiesEnabled' ){this.checked = false;}else{this.checked = container.hasClass( 'av-cookie-default-checked' );}}else{if( container.hasClass('av-cookie-save-checked') ){this.checked = document.cookie.match(cookie_name) ? true : false;}else{this.checked = document.cookie.match(cookie_name) ? false : true;}}});jQuery('.' + 'av-switch-' + cookie_name).addClass('active');toggle.on('click', function(){/* sync if more checkboxes exist because user added them to normal page content */var check = this.checked;jQuery('.' + cookie_name).each( function(){this.checked = check;});var silent_accept_cookie = jQuery('html').hasClass('av-cookies-user-silent-accept');if( ! silent_accept_cookie && cookie_check && ! document.cookie.match(/aviaCookieConsent/) || sessionStorage.getItem( 'aviaCookieRefused' ) ){return;}var container = jQuery(this).closest('.av-toggle-switch');var action = '';if( container.hasClass('av-cookie-save-checked') ){action = this.checked ? 'save' : 'remove';}else{action = this.checked ? 'remove' : 'save';}if('remove' == action){document.cookie = cookie_name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';}else{var theDate = new Date();var oneYearLater = new Date( theDate.getTime() + 31536000000 );document.cookie = cookie_name + '=true; Path=/; Expires='+oneYearLater.toGMTString()+';';}});}; av_privacy_cookie_setter('aviaPrivacyRefuseCookiesHideBar');  av_privacy_cookie_setter('aviaPrivacyEssentialCookiesEnabled');  av_privacy_cookie_setter('aviaPrivacyGoogleTrackingDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleWebfontsDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleMapsDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleReCaptchaDisabled');  av_privacy_cookie_setter('aviaPrivacyVideoEmbedsDisabled'); </script>\n<!-- google webfont font replacement -->\n\n\t\t\t<script type='text/javascript'>\n\n\t\t\t\t(function() {\n\t\t\t\t\t\n\t\t\t\t\t/*\tcheck if webfonts are disabled by user setting via cookie - or user must opt in.\t*/\n\t\t\t\t\tvar html = document.getElementsByTagName('html')[0];\n\t\t\t\t\tvar cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;\n\t\t\t\t\tvar allow_continue = true;\n\t\t\t\t\tvar silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;\n\n\t\t\t\t\tif( cookie_check && ! silent_accept_cookie )\n\t\t\t\t\t{\n\t\t\t\t\t\tif( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tallow_continue = false;\n\t\t\t\t\t\t}\n\t\t\t\t\t\telse\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tif( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )\n\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\tallow_continue = false;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )\n\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\tallow_continue = false;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )\n\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\tallow_continue = false;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\tif( allow_continue )\n\t\t\t\t\t{\n\t\t\t\t\t\tvar f = document.createElement('link');\n\t\t\t\t\t\n\t\t\t\t\t\tf.type \t= 'text/css';\n\t\t\t\t\t\tf.rel \t= 'stylesheet';\n\t\t\t\t\t\tf.href \t= '//fonts.googleapis.com/css?family=Open+Sans:400,600';\n\t\t\t\t\t\tf.id \t= 'avia-google-webfont';\n\n\t\t\t\t\t\tdocument.getElementsByTagName('head')[0].appendChild(f);\n\t\t\t\t\t}\n\t\t\t\t})();\n\t\t\t\n\t\t\t</script>\n\t\t\t\n<script type='text/javascript'>\n\t\t\t\n\t(function($) {\n\t\t\t\t\t\n\t\t\t/*\tcheck if google analytics tracking is disabled by user setting via cookie - or user must opt in.\t*/\n\t\t\t\t\t\n\t\t\tvar analytics_code = \"\\n<!-- Global site tag (gtag.js) - Google Analytics -->\\n<script id='google_analytics_script' class='google_analytics_scripts' async src='https:\\/\\/www.googletagmanager.com\\/gtag\\/js?id=UA-110119346-1'><\\/script>\\n<script class='google_analytics_scripts' type='text\\/javascript'>\\nwindow.dataLayer = window.dataLayer || [];\\nfunction gtag(){dataLayer.push(arguments);}\\ngtag('js', new Date());\\ngtag('config', 'UA-110119346-1', { 'anonymize_ip': true });\\n<\\/script>\\n\".replace(/\\\"/g, '\"' );\n\t\t\tvar html = document.getElementsByTagName('html')[0];\n\n\t\t\t$('html').on( 'avia-cookie-settings-changed', function(e) \n\t\t\t{\n\t\t\t\t\tvar cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;\n\t\t\t\t\tvar allow_continue = true;\n\t\t\t\t\tvar silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;\n\t\t\t\t\tvar script_loaded = $( 'script.google_analytics_scripts' );\n\n\t\t\t\t\tif( cookie_check && ! silent_accept_cookie )\n\t\t\t\t\t{\n\t\t\t\t\t\tif( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tallow_continue = false;\n\t\t\t\t\t\t}\n\t\t\t\t\t\telse\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tif( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )\n\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\tallow_continue = false;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )\n\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\tallow_continue = false;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\telse if( document.cookie.match(/aviaPrivacyGoogleTrackingDisabled/) )\n\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\tallow_continue = false;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tif( ! allow_continue )\n\t\t\t\t\t{ \n//\t\t\t\t\t\twindow['ga-disable-UA-110119346-1'] = true;\n\t\t\t\t\t\tif( script_loaded.length > 0 )\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tscript_loaded.remove();\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t\telse\n\t\t\t\t\t{\n\t\t\t\t\t\tif( script_loaded.length == 0 )\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\t$('head').append( analytics_code );\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t});\n\t\t\t\n\t\t\t$('html').trigger( 'avia-cookie-settings-changed' );\n\t\t\t\t\t\t\n\t})( jQuery );\n\t\t\t\t\n</script></body>\n</html>\n"
+<!DOCTYPE html>
+<html lang="en-US" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_custom html_header_sticky html_header_shrinking html_header_topbar_active html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top html_header_stretch html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_240571 av-cookies-consent-show-message-bar av-cookies-cookie-consent-enabled av-cookies-can-opt-out av-cookies-user-silent-accept avia-cookie-check-browser-settings av-no-preview html_text_menu_active ">
+<head>
+    <meta charset="UTF-8" />
+	
+
+    <!-- mobile setting -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Scripts/CSS and wp_head hook -->
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+				<script type='text/javascript'>
+
+				function avia_cookie_check_sessionStorage()
+				{
+					//	FF throws error when all cookies blocked !!
+					var sessionBlocked = false;
+					try
+					{
+						var test = sessionStorage.getItem( 'aviaCookieRefused' ) != null;
+					}
+					catch(e)
+					{
+						sessionBlocked = true;
+					}
+					
+					var aviaCookieRefused = ! sessionBlocked ? sessionStorage.getItem( 'aviaCookieRefused' ) : null;
+					
+					var html = document.getElementsByTagName('html')[0];
+
+					/**
+					 * Set a class to avoid calls to sessionStorage
+					 */
+					if( sessionBlocked || aviaCookieRefused )
+					{
+						if( html.className.indexOf('av-cookies-session-refused') < 0 )
+						{
+							html.className += ' av-cookies-session-refused';
+						}
+					}
+					
+					if( sessionBlocked || aviaCookieRefused || document.cookie.match(/aviaCookieConsent/) )
+					{
+						if( html.className.indexOf('av-cookies-user-silent-accept') >= 0 )
+						{
+							 html.className = html.className.replace(/\bav-cookies-user-silent-accept\b/g, '');
+						}
+					}
+				}
+
+				avia_cookie_check_sessionStorage();
+
+			</script>
+			
+	<!-- This site is optimized with the Yoast SEO Premium plugin v16.9 (Yoast SEO v16.9) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>INTERNATIONAL TYPEWRITER EXCHANGE INC - SAM Support</title>
+	<link rel="canonical" href="https://samsupport.net/registrations/003852910" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="INTERNATIONAL TYPEWRITER EXCHANGE INC" />
+	<meta property="og:url" content="https://samsupport.net/registrations/003852910" />
+	<meta property="og:site_name" content="SAM Support" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://samsupport.net/#organization","name":"Samsupport.net","url":"https://samsupport.net/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://samsupport.net/#logo","inLanguage":"en-US","url":"https://samsupport.net/wp-content/uploads/2017/12/samsupport_seal.png","contentUrl":"https://samsupport.net/wp-content/uploads/2017/12/samsupport_seal.png","width":1000,"height":1000,"caption":"Samsupport.net"},"image":{"@id":"https://samsupport.net/#logo"}},{"@type":"WebSite","@id":"https://samsupport.net/#website","url":"https://samsupport.net/","name":"SAM Support","description":"","publisher":{"@id":"https://samsupport.net/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://samsupport.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://samsupport.net/registrations/003852910#webpage","url":"https://samsupport.net/registrations/003852910","name":"INTERNATIONAL TYPEWRITER EXCHANGE INC - SAM Support","isPartOf":{"@id":"https://samsupport.net/#website"},"datePublished":"2021-05-14T07:17:47+00:00","dateModified":"2021-05-14T07:17:47+00:00","breadcrumb":{"@id":"https://samsupport.net/registrations/003852910#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://samsupport.net/registrations/003852910"]}]},{"@type":"BreadcrumbList","@id":"https://samsupport.net/registrations/003852910#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://samsupport.net/"},{"@type":"ListItem","position":2,"name":"INTERNATIONAL TYPEWRITER EXCHANGE INC"}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SAM Support &raquo; Feed" href="https://samsupport.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="SAM Support &raquo; Comments Feed" href="https://samsupport.net/comments/feed" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://samsupport.net/wp-includes/css/dist/block-library/style.min.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='https://samsupport.net/wp-content/plugins/theme-my-login/assets/styles/theme-my-login.min.css?ver=7.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-merged-styles-css'  href='https://samsupport.net/wp-content/uploads/dynamic_avia/avia-merged-styles-dfba178f44ef421e2923982a2ed4c43b---6112edcb5a413.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://samsupport.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-compat.js?ver=4.8.6.1' id='avia-compat-js'></script>
+<link rel="https://api.w.org/" href="https://samsupport.net/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://samsupport.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://samsupport.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8" />
+<link rel='shortlink' href='https://samsupport.net/?p=240571' />
+<link rel="alternate" type="application/json+oembed" href="https://samsupport.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsamsupport.net%2Fregistrations%2F003852910" />
+<link rel="alternate" type="text/xml+oembed" href="https://samsupport.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsamsupport.net%2Fregistrations%2F003852910&#038;format=xml" />
+	<script type="text/javascript" >
+		function wpmautic_send(){
+			if ('undefined' === typeof mt) {
+				if (console !== undefined) {
+					console.warn('WPMautic: mt not defined. Did you load mtc.js ?');
+				}
+				return false;
+			}
+			// Add the mt('send', 'pageview') script with optional tracking attributes.
+			mt('send', 'pageview');
+		}
+
+			(function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+			w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+			m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://notify.fedaward.org/mtc.js','mt');
+
+		wpmautic_send();
+			</script>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="SAM Support RSS2 Feed" href="https://samsupport.net/feed" />
+<link rel="pingback" href="https://samsupport.net/xmlrpc.php" />
+
+<style type='text/css' media='screen'>
+ #top #header_main > .container, #top #header_main > .container .main_menu  .av-main-nav > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:100px; line-height: 100px; }
+ .html_top_nav_header .av-logo-container{ height:100px;  }
+ .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:130px; } 
+</style>
+<!--[if lt IE 9]><script src="https://samsupport.net/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="/wp-content/uploads/2017/12/favicon.ico" type="image/x-icon">
+<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+url('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+url('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
+url('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg'),
+url('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot'),
+url('https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.8.6.1
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 4.8
+aviaElementManager Version: 1.0.1
+- - - - - - - - - - -
+ChildTheme: SAM Support
+ChildTheme Version: 1.0
+ChildTheme Installed: enfold
+
+ML:512-PU:30-PLA:13
+WP:5.8
+Compress: CSS:all theme files - JS:disabled
+Updates: enabled - token has changed and not verified
+PLAu:13
+-->
+</head>
+
+
+
+
+<body id="top" class="registrations-template-default single single-registrations postid-240571  rtl_columns stretched open_sans avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+
+<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_custom av_header_sticky av_header_shrinking av_header_stretch av_mobile_menu_phone av_header_searchicon av_header_unstick_top av_seperator_small_border av_bottom_nav_disabled  av_alternate_logo_active'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div id='header_meta' class='container_wrap container_wrap_meta  av_phone_active_left av_extra_header_active av_entry_id_240571'>
+		
+			      <div class='container'>
+			      			      </div>
+		</div>
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='https://samsupport.net/'><img src="/wp-content/uploads/2017/12/samsupport_logo_full.png" height="100" width="300" alt='SAM Support' title='' /></a></span><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-top-level menu-item-top-level-1"><a href="https://samsupport.net/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="https://samsupport.net/services" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Services</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-3"><a href="https://samsupport.net/support" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Support</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-4"><a href="https://samsupport.net/contact" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Contact</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special"><a aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form role=&quot;search&quot; action=&quot;https://samsupport.net/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;
+" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a></li><li class="av-burger-menu-main menu-item-avia-special ">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+
+    <div id='main' class='all_colors' data-scroll-offset='100'>
+
+<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title '><a href='https://samsupport.net/registrations/003852910' rel='bookmark' title='Permanent Link: INTERNATIONAL TYPEWRITER EXCHANGE INC'  itemprop="headline" >INTERNATIONAL TYPEWRITER EXCHANGE INC</a></h1><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail" ><span class="trail-before"><span class="breadcrumb-title">You are here:</span></span> <span  itemscope="itemscope" itemtype="https://schema.org/BreadcrumbList" ><span  itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement" ><a itemprop="url" href="https://samsupport.net" title="SAM Support" rel="home" class="trail-begin"><span itemprop="name">Home</span></a><span itemprop="position" class="hidden">1</span></span></span> <span class="sep">/</span> <span class="trail-end">INTERNATIONAL TYPEWRITER EXCHANGE INC</span></div></div></div></div>
+    <!-- Google Charting Script -->
+    <div class='container_wrap container_wrap_first main_color fullsize'>
+        <div class='container'>
+            <main class='template-page content  av-content-full alpha units'  role="main" itemprop="mainContentOfPage" >
+				
+		<article class='post-entry post-entry-type-page post-entry-240571'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+
+			<div class="entry-content-wrapper clearfix">
+                <header class="entry-content-header"></header><div class="entry-content"  itemprop="text" ></div><footer class="entry-footer"></footer>			</div>
+
+		</article><!--end post-entry-->
+
+
+                <div style="padding-bottom:10px;" class="av-special-heading av-special-heading-h1  blockquote modern-quote modern-centered  avia-builder-el-0  avia-builder-el-no-sibling ">
+                    <h1 class="av-special-heading-tag" >INTERNATIONAL TYPEWRITER EXCHANGE, INC.</h1>
+                    <div class="av-subheading av-subheading_below " style="font-size:15px;"><p>ITE DISTRIBUTING</p></div>
+                </div>
+                <hr style="padding-top: 20px; padding-bottom: 20px;">
+                <div class="av-subheading av-subheading_below " style="font-size:15px;"><p><strong>Your Registration Expires:</strong> January, 05 2022</p></div>
+	                        <div class="av-countdown-timer  av-align-center av-colored-style  avia-builder-el-0  avia-builder-el-no-sibling   av-countdown-active" data-year="2022" data-month="0" data-day=" 05 " data-hour="0" data-minute="0" data-timezone="-240" data-interval="1000" data-maximum="5"><span class="av-countdown-timer-inner"><span class="av-countdown-cell av-countdown-weeks"><span class="av-countdown-cell-inner"><span class="av-countdown-time " data-upate-width="weeks" style="">1</span><span class="av-countdown-time-label " data-label="Week" data-label-multi="Weeks">Week</span></span></span><span class="av-countdown-cell av-countdown-days"><span class="av-countdown-cell-inner"><span class="av-countdown-time " data-upate-width="days" style="">2</span><span class="av-countdown-time-label " data-label="Day" data-label-multi="Days">Days</span></span></span><span class="av-countdown-cell av-countdown-hours"><span class="av-countdown-cell-inner"><span class="av-countdown-time " data-upate-width="hours" style="">2</span><span class="av-countdown-time-label " data-label="Hour" data-label-multi="Hours">Hours</span></span></span><span class="av-countdown-cell av-countdown-minutes"><span class="av-countdown-cell-inner"><span class="av-countdown-time " data-upate-width="minutes" style="">34</span><span class="av-countdown-time-label " data-label="Minute" data-label-multi="Minutes">Minutes</span></span></span><span class="av-countdown-cell av-countdown-seconds"><span class="av-countdown-cell-inner"><span class="av-countdown-time " data-upate-width="seconds" style="">9</span><span class="av-countdown-time-label " data-label="Second" data-label-multi="Seconds">Seconds</span></span></span></span></div>
+	            		
+        <div itemscope itemtype="http://schema.org/Organization">
+                    <div class="hr hr-big  avia-builder-el-0  avia-builder-el-no-sibling "><span class="hr-inner "><span class="hr-inner-style"></span></span></div>
+                    <div class="tabcontainer  sidebar_tab sidebar_tab_left border_tabs  avia-builder-el-0  avia-builder-el-no-sibling " >
+                        <div class="tab_titles"><div data-fake-id="#tab-id-2" class="tab active_tab tab_counter_0" >Basic Info</div>
+                                            <div data-fake-id="#tab-id-3" class="tab  tab_counter_2" >Government P.O.C.</div>
+                    
+                                            <div data-fake-id="#tab-id-4" class="tab  tab_counter_3" >Alt. Government P.O.C.</div>
+                    
+                                            <div data-fake-id="#tab-id-5" class="tab  tab_counter_4" >Past Performance P.O.C.</div>
+                    
+                                            <div data-fake-id="#tab-id-6" class="tab  tab_counter_5" >Alt. Past Performance P.O.C.</div>
+                    
+                                            <div data-fake-id="#tab-id-7" class="tab  tab_counter_6" >Electronic P.O.C.</div>
+                    
+                                            <div data-fake-id="#tab-id-8" class="tab  tab_counter_7" >Alt. Electronic P.O.C.</div>
+                    
+                        <div data-fake-id="#tab-id-9" class="tab  tab_counter_8" >NAICS Information</div><div data-fake-id="#tab-id-10" class="tab  tab_counter_9" >Disaster Response Codes</div><div data-fake-id="#tab-id-11" class="tab  tab_counter_10" >PSC Codes</div>
+                </div>
+
+                        <section class="av_tab_section">    <div data-fake-id="#tab-id-1" class="tab active_tab fullsize-tab" >Basic Info</div>
+                            <div id="tab-id-1-container" class="tab_content active_tab_content" style="min-height: 613px;">
+                                <div class="tab_inner_content invers-color" >
+
+	                                                                    <table>
+
+                                        <tr>
+                                            <td><strong>Legal Business Name</strong></td>
+                                            <td itemprop="legalName">INTERNATIONAL TYPEWRITER EXCHANGE, INC.</td>
+                                        </tr>
+
+										                                            <tr>
+                                                <td itemprop="alternateName"><strong>DBA Name</strong></td>
+                                                <td>ITE DISTRIBUTING</td>
+                                            </tr>
+										
+										                                            <tr>
+                                                <td><strong>Registration Status</strong></td>
+                                                <td><span class="regactive">Active</span></td>
+                                            </tr>
+																														
+                                        <tr>
+                                            <td><strong>Expiration Date</strong></td>
+                                            <td>January, 05 2022</td>
+                                        </tr>
+
+
+                                        <tr>
+                                            <td><strong>DUNS</strong></td>
+                                            <td itemprop="duns">003852910</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td><strong>DUNS +4</strong></td>
+                                            <td>0000</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td><strong>CAGE</strong></td>
+                                            <td>6W47</td>
+                                        </tr>
+
+										                                            <tr>
+                                                <td><strong>Primary NAICS</strong></td>
+                                                <td>423420 -
+													Office Equipment Merchant Wholesalers                                                 </td>
+                                            </tr>
+										
+                                        <tr>
+                                            <td><strong>Corporate Structure</strong></td>
+                                            <td>2L                                            </td>
+                                        </tr>
+
+
+
+                                        <tr>
+                                            <td colspan="2"><p align="center"><strong>Physical Address</strong></p></td>
+
+                                        </tr>
+
+										                                            <tr>
+                                                <td><strong>Business Started</strong></td>
+                                                <td itemprop="foundingDate">October, 26 1915</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td></td>
+                                                <td></td>
+                                            </tr>
+										                                        <tr>
+                                            <td colspan="2"><div><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe   width='100%'   height='100%'   frameborder='0' style='border:0'   src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBU4Wxqy9DMIiZ_r5qNIzFXpLnD16XQH8U&q=421 IRMEN DR U A ADDISON IL 60101 USA' allowfullscreen> </iframe></div></td>
+                                        </tr>
+										                                            <tr>
+
+                                                <td itemprop="sameAs" colspan="2">
+                                                                                                    </td>
+                                            </tr>
+										
+										                                            <tr>
+                                                <td><strong>Congressional District</strong></td>
+                                                <td>8</td>
+                                            </tr>
+										
+										                                            <tr>
+                                                <td><strong>State of Incorporation</strong></td>
+                                                <td>IL</td>
+                                            </tr>
+
+
+										
+                                    </table>
+
+                                </div>
+                            </div>
+                        </section>
+						                            <section class="av_tab_section">    <div data-fake-id="#tab-id-3" class="tab  fullsize-tab" >Government P.O.C.</div>
+                                <div id="tab-id-3-container" class="tab_content " style="min-height: 613px;">
+                                    <div class="tab_inner_content invers-color" >
+	                                                                            <table itemscope itemtype="http://schema.org/ContactPoint">
+                                            <tbody>
+
+                                            <a name="governmentpointofcontact"></a>
+
+                                            <tr>
+                                                <td width="50%"><strong>First Name</strong></td>
+                                                <td width="50%" itemprop="name">DOUGLAS NELSON</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>Last Name</strong></td>
+                                                <td width="50%" itemprop="alternateName">NELSON</td>
+                                            </tr>
+
+											                                                <tr>
+                                                    <td width="50%" itemprop="jobTitle"><strong>Title</strong></td>
+                                                    <td width="50%">N/A</td>
+                                                </tr>
+											
+
+                                            <tr>
+                                                <td width="50%" itemprop="email"><strong>Email Address</strong></td>
+                                                <td width="50%">DNelson@itedistributing.com</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>US Phone</strong></td>
+                                                <td width="50%" itemprop="telephone">3127331200</td>
+                                            </tr>
+
+											
+
+											
+
+											                                                <tr>
+                                                    <td><strong>Fax</strong></td>
+                                                    <td itemprop="faxNumber">3127338241</td>
+                                                </tr>
+											
+
+                                            <tr>
+                                                <td colspan="2" align="center"><h4>Address on File</h4></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>Street Address1</strong></td>
+                                                <td width="50%">421 IRMEN DRIVE</td>
+                                            </tr>
+
+											
+                                                <tr>
+                                                    <td width="50%"><strong>Line 2</strong></td>
+                                                    <td width="50%">UNIT A</td>
+                                                </tr>
+											
+                                            <tr>
+                                                <td width="50%"><strong>City</strong></td>
+                                                <td width="50%">ADDISON</td>
+                                            </tr>
+
+											                                                <tr>
+                                                    <td width="50%"><strong>State</strong></td>
+                                                    <td width="50%">IL</td>
+                                                </tr>
+											
+                                            <tr>
+                                                <td width="50%"><strong>Zip/Postalcode</strong></td>
+                                                <td width="50%">60101-0													                                                </td>
+                                            </tr>
+
+                                            </tbody>
+                                        </table>
+
+                                    </div>
+                                </div>
+                            </section>
+														                            <section class="av_tab_section">    <div data-fake-id="#tab-id-5" class="tab  fullsize-tab" >Past Performance P.O.C.</div>
+                                <div id="tab-id-5-container" class="tab_content " style="min-height: 613px;">
+                                    <div class="tab_inner_content invers-color" >
+	                                                                            <table itemscope itemtype="http://schema.org/ContactPoint">
+                                            <tbody>
+
+                                            <a name="governmentpointofcontact"></a>
+
+                                            <tr>
+                                                <td width="50%"><strong>First Name</strong></td>
+                                                <td width="50%" itemprop="name">DOUGLAS NELSON</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>Last Name</strong></td>
+                                                <td width="50%" itemprop="alternateName">NELSON</td>
+                                            </tr>
+
+											                                                <tr>
+                                                    <td width="50%" itemprop="jobTitle"><strong>Title</strong></td>
+                                                    <td width="50%">N/A</td>
+                                                </tr>
+											
+
+                                            <tr>
+                                                <td width="50%" itemprop="email"><strong>Email Address</strong></td>
+                                                <td width="50%">DNelson@itedistributing.com</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>US Phone</strong></td>
+                                                <td width="50%" itemprop="telephone">3127331200</td>
+                                            </tr>
+
+											
+
+											
+
+											                                                <tr>
+                                                    <td><strong>Fax</strong></td>
+                                                    <td itemprop="faxNumber">3127338241</td>
+                                                </tr>
+											
+
+                                            <tr>
+                                                <td colspan="2" align="center"><h4>Address on File</h4></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>Street Address3</strong></td>
+                                                <td width="50%">421 IRMEN DRIVE</td>
+                                            </tr>
+
+											
+                                                <tr>
+                                                    <td width="50%"><strong>Line 2</strong></td>
+                                                    <td width="50%">UNIT A</td>
+                                                </tr>
+											
+                                            <tr>
+                                                <td width="50%"><strong>City</strong></td>
+                                                <td width="50%">ADDISON</td>
+                                            </tr>
+
+											                                                <tr>
+                                                    <td width="50%"><strong>State</strong></td>
+                                                    <td width="50%">IL</td>
+                                                </tr>
+											
+                                            <tr>
+                                                <td width="50%"><strong>Zip/Postalcode</strong></td>
+                                                <td width="50%">60101                                                </td>
+                                            </tr>
+
+                                            </tbody>
+                                        </table>
+
+                                    </div>
+                                </div>
+                            </section>
+												                            <section class="av_tab_section">    <div data-fake-id="#tab-id-6" class="tab  fullsize-tab" >Alt Past Perfocmane P.O.C.</div>
+                                <div id="tab-id-6-container" class="tab_content " style="min-height: 613px;">
+                                    <div class="tab_inner_content invers-color" >
+	                                                                            <table itemscope itemtype="http://schema.org/ContactPoint">
+                                            <tbody>
+
+                                            <a name="governmentpointofcontact"></a>
+
+                                            <tr>
+                                                <td width="50%"><strong>First Name</strong></td>
+                                                <td width="50%" itemprop="name">DOUGLAS NELSON</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>Last Name</strong></td>
+                                                <td width="50%" itemprop="alternateName">NELSON</td>
+                                            </tr>
+
+											                                                <tr>
+                                                    <td width="50%" itemprop="jobTitle"><strong>Title</strong></td>
+                                                    <td width="50%">N/A</td>
+                                                </tr>
+											
+
+                                            <tr>
+                                                <td width="50%" itemprop="email"><strong>Email Address</strong></td>
+                                                <td width="50%">DNelson@itedistributing.com</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>US Phone</strong></td>
+                                                <td width="50%" itemprop="telephone">3127331200</td>
+                                            </tr>
+
+											
+
+											
+
+											                                                <tr>
+                                                    <td><strong>Fax</strong></td>
+                                                    <td itemprop="faxNumber">3127338241</td>
+                                                </tr>
+											
+
+                                            <tr>
+                                                <td colspan="2" align="center"><h4>Address on File</h4></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>Street Address4</strong></td>
+                                                <td width="50%">421 IRMEN DRIVE</td>
+                                            </tr>
+
+											
+                                                <tr>
+                                                    <td width="50%"><strong>Line 2</strong></td>
+                                                    <td width="50%">UNIT A</td>
+                                                </tr>
+											
+                                            <tr>
+                                                <td width="50%"><strong>City</strong></td>
+                                                <td width="50%">ADDISON</td>
+                                            </tr>
+
+											                                                <tr>
+                                                    <td width="50%"><strong>State</strong></td>
+                                                    <td width="50%">IL</td>
+                                                </tr>
+											
+                                            <tr>
+                                                <td width="50%"><strong>Zip/Postalcode</strong></td>
+                                                <td width="50%">60101-0													                                                </td>
+                                            </tr>
+
+                                            </tbody>
+                                        </table>
+
+                                    </div>
+                                </div>
+                            </section>
+												                            <section class="av_tab_section">    <div data-fake-id="#tab-id-7" class="tab  fullsize-tab" >Electronic P.O.C.</div>
+                                <div id="tab-id-7-container" class="tab_content " style="min-height: 613px;">
+                                    <div class="tab_inner_content invers-color" >
+	                                                                            <table itemscope itemtype="http://schema.org/ContactPoint">
+                                            <tbody>
+
+                                            <a name="governmentpointofcontact"></a>
+
+                                            <tr>
+                                                <td width="50%"><strong>First Name</strong></td>
+                                                <td width="50%" itemprop="name">DOUGLAS NELSON</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>Last Name</strong></td>
+                                                <td width="50%" itemprop="alternateName">NELSON</td>
+                                            </tr>
+
+											                                                <tr>
+                                                    <td width="50%" itemprop="jobTitle"><strong>Title</strong></td>
+                                                    <td width="50%">N/A</td>
+                                                </tr>
+											
+
+                                            <tr>
+                                                <td width="50%" itemprop="email"><strong>Email Address</strong></td>
+                                                <td width="50%">DNelson@itedistributing.com</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>US Phone</strong></td>
+                                                <td width="50%" itemprop="telephone">3127331200</td>
+                                            </tr>
+
+											
+
+											
+											                                                <tr>
+                                                    <td><strong>Fax</strong></td>
+                                                    <td itemprop="faxNumber">3127338241</td>
+                                                </tr>
+											
+
+                                            <tr>
+                                                <td colspan="2" align="center"><h4>Address on File</h4></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="50%"><strong>Street Address5</strong></td>
+                                                <td width="50%">421 IRMEN DRIVE</td>
+                                            </tr>
+
+											
+                                                <tr>
+                                                    <td width="50%"><strong>Line 2</strong></td>
+                                                    <td width="50%">UNIT</td>
+                                                </tr>
+											
+                                            <tr>
+                                                <td width="50%"><strong>City</strong></td>
+                                                <td width="50%">ADDISON</td>
+                                            </tr>
+
+											                                                <tr>
+                                                    <td width="50%"><strong>State</strong></td>
+                                                    <td width="50%">IL</td>
+                                                </tr>
+											
+                                            <tr>
+                                                <td width="50%"><strong>Zip/Postalcode</strong></td>
+                                                <td width="50%">60101-0													                                                </td>
+                                            </tr>
+
+                                            </tbody>
+                                        </table>
+
+                                    </div>
+                                </div>
+                            </section>
+						
+                        <section class="av_tab_section">    <div data-fake-id="#tab-id-9" class="tab  fullsize-tab" >NAICS Information</div>
+                            <div id="tab-id-9-container" class="tab_content " style="min-height: 613px;">
+                                <div class="tab_inner_content invers-color" >
+	                                                                    <table>
+                                        <thead>
+                                        <th colspan="2"><strong>NAICS Codes</strong></th>
+                                        </thead>
+                                        <tbody>
+                                        </tbody>
+                                    </table>
+
+                                </div>
+                            </div>
+                        </section>
+
+                        <section class="av_tab_section"">    <div data-fake-id="#tab-id-11" class="tab  fullsize-tab" >Disaster Response Codes</div>
+                        <div id="tab-id-11-container" class="tab_content " style="min-height: 613px;">
+                            <div class="tab_inner_content invers-color" >
+	                                                            <table>
+                                    <thead>
+                                    <th><strong>Disaster Response Codes</strong></th>
+                                    </thead>
+                                    <tbody>
+									<tr><td>N/A</td></tr>
+                                    </tbody>
+                                </table>
+
+                            </div>
+                        </div>
+                        </section>
+
+                        <section class="av_tab_section">    <div data-fake-id="#tab-id-12" class="tab  fullsize-tab" >PSC Codes</div>
+                            <div id="tab-id-12-container" class="tab_content " style="min-height: 613px;">
+                                <div class="tab_inner_content invers-color" >
+		                                    <table>
+                                        <thead>
+                                        <th colspan="2"><strong>PSC Codes</strong></th>
+                                        </thead>
+                                        <tbody>
+										                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+
+                    <!-- On document.ready, then populate the award count via AJAX. Had to scope jQuery here as $ was being overwritten by another library -->
+
+
+                </div>
+
+                <!--end content-->
+            </main>
+
+			        </div><!--end container-->
+    </div>
+    <!-- close default .container_wrap element -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+
+	
+        <footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+            <div class='container'>
+
+                <span class='copyright'>© Copyright 2021 - SAM Support | Samsupport.net</span>
+
+				
+            </div>
+
+            <!-- ####### END SOCKET CONTAINER ####### -->
+        </footer>
+
+
+		<!-- end main -->
+</div>
+
+<a class='avia-post-nav avia-post-prev without-image' href='https://samsupport.net/registrations/003852019' >    <span class='label iconfont' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>    <span class='entry-info-wrap'>        <span class='entry-info'>            <span class='entry-title'>OZARKS ELECTRIC COOPERATIVE CORPORATION</span>        </span>    </span></a><a class='avia-post-nav avia-post-next without-image' href='https://samsupport.net/registrations/003860129' >    <span class='label iconfont' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>    <span class='entry-info-wrap'>        <span class='entry-info'>            <span class='entry-title'>WEST CENTRAL ELECTRIC COOPERATIVE INC</span>        </span>    </span></a><!-- end wrap_all --></div>
+
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+<div class="avia-cookie-consent-wrap" aria-hidden="true"><div class='avia-cookie-consent cookiebar-hidden  avia-cookiemessage-bottom'  aria-hidden='true'  data-contents='18ce70fe03b6e8e823626e2cbc8b2a7a||v1.0' ><div class="container"><p class='avia_cookie_text'>This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.</p><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-1  avia-cookie-close-bar ' >OK</a><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-2 av-extra-cookie-btn  avia-cookie-info-btn ' >Learn more</a></div></div><div id='av-consent-extra-info' class='av-inline-modal main_color avia-hide-popup-close'>
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-av_heading-e9726c5b3ba47c61a37656c1e7d02a7a">
+#top .av-special-heading.av-av_heading-e9726c5b3ba47c61a37656c1e7d02a7a{
+margin:10px 0 0 0;
+padding-bottom:10px;
+}
+</style>
+<div  class='av-special-heading av-av_heading-e9726c5b3ba47c61a37656c1e7d02a7a av-special-heading-h3 blockquote modern-quote '><h3 class='av-special-heading-tag '  itemprop="headline"  >Cookie and Privacy Settings</h3><div class='special-heading-border'><div class='special-heading-inner-border'></div></div></div><br />
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9">
+#top .hr.av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9{
+margin-top:0px;
+margin-bottom:0px;
+}
+.hr.av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9 .hr-inner{
+width:100%;
+}
+</style>
+<div  class='hr av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9 hr-custom hr-left hr-icon-no '><span class='hr-inner inner-border-av-border-thin'><span class="hr-inner-style"></span></span></div><br /><div  class="tabcontainer   sidebar_tab sidebar_tab_left noborder_tabs " role="tablist">
+<section class="av_tab_section" ><div aria-controls="tab-id-1-content" role="tab" tabindex="0" data-fake-id="#tab-id-1" class="tab active_tab" >How we use cookies</div>
+<div id="tab-id-1-content" class="tab_content active_tab_content" aria-hidden="false">
+<div class="tab_inner_content invers-color" >
+<p>We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. </p>
+<p>Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.</p>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section" ><div aria-controls="tab-id-2-content" role="tab" tabindex="0" data-fake-id="#tab-id-2" class="tab " >Essential Website Cookies</div>
+<div id="tab-id-2-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color" >
+<p>These cookies are strictly necessary to provide you with services available through our website and to use some of its features.</p>
+<p>Because these cookies are strictly necessary to deliver the website, refuseing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.</p>
+<p>We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.</p>
+<p>We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.</p>
+<div class="av-switch-aviaPrivacyRefuseCookiesHideBar av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-checked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyRefuseCookiesHideBar" class="aviaPrivacyRefuseCookiesHideBar " name="aviaPrivacyRefuseCookiesHideBar" ><span class="toggle-track"></span><span class="toggle-label-content">Check to enable permanent hiding of message bar and refuse all cookies if you do not opt in. We need 2 cookies to store this setting. Otherwise you will be prompted again when opening a new browser window or new a tab.</span></label></div>
+<div class="av-switch-aviaPrivacyEssentialCookiesEnabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-checked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyEssentialCookiesEnabled" class="aviaPrivacyEssentialCookiesEnabled " name="aviaPrivacyEssentialCookiesEnabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable essential site cookies.</span></label></div>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section" ><div aria-controls="tab-id-3-content" role="tab" tabindex="0" data-fake-id="#tab-id-3" class="tab " >Google Analytics Cookies</div>
+<div id="tab-id-3-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color" >
+<p>These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.</p>
+<p>If you do not want that we track your visit to our site you can disable tracking in your browser here:</p>
+<div data-disabled_by_browser="Please enable this feature in your browser settings and reload the page." class="av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleTrackingDisabled" class="aviaPrivacyGoogleTrackingDisabled " name="aviaPrivacyGoogleTrackingDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google Analytics tracking.</span></label></div>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section" ><div aria-controls="tab-id-4-content" role="tab" tabindex="0" data-fake-id="#tab-id-4" class="tab " >Other external services</div>
+<div id="tab-id-4-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color" >
+<p>We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.</p>
+<p>Google Webfont Settings:</p>
+<div class="av-switch-aviaPrivacyGoogleWebfontsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleWebfontsDisabled" class="aviaPrivacyGoogleWebfontsDisabled " name="aviaPrivacyGoogleWebfontsDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google Webfonts.</span></label></div>
+<p>Google Map Settings:</p>
+<div class="av-switch-aviaPrivacyGoogleMapsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleMapsDisabled" class="aviaPrivacyGoogleMapsDisabled " name="aviaPrivacyGoogleMapsDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google Maps.</span></label></div>
+<p>Google reCaptcha Settings:</p>
+<div class="av-switch-aviaPrivacyGoogleReCaptchaDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleReCaptchaDisabled" class="aviaPrivacyGoogleReCaptchaDisabled " name="aviaPrivacyGoogleReCaptchaDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google reCaptcha.</span></label></div>
+<p>Vimeo and Youtube video embeds:</p>
+<div class="av-switch-aviaPrivacyVideoEmbedsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyVideoEmbedsDisabled" class="aviaPrivacyVideoEmbedsDisabled " name="aviaPrivacyVideoEmbedsDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable video embeds.</span></label></div>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section" ><div aria-controls="tab-id-5-content" role="tab" tabindex="0" data-fake-id="#tab-id-5" class="tab " >Other cookies</div>
+<div id="tab-id-5-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color" >
+<p>The following cookies are also needed - You can choose if you want to allow them:</p>
+<div class="av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleTrackingDisabled" class="aviaPrivacyGoogleTrackingDisabled " name="aviaPrivacyGoogleTrackingDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable _ga - Google Analytics Cookie.</span></label></div>
+<div class="av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleTrackingDisabled" class="aviaPrivacyGoogleTrackingDisabled " name="aviaPrivacyGoogleTrackingDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable _gid - Google Analytics Cookie.</span></label></div>
+<div class="av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleTrackingDisabled" class="aviaPrivacyGoogleTrackingDisabled " name="aviaPrivacyGoogleTrackingDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable _gat_* - Google Analytics Cookie.</span></label></div>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section" ><div aria-controls="tab-id-6-content" role="tab" tabindex="0" data-fake-id="#tab-id-6" class="tab " >Privacy Policy</div>
+<div id="tab-id-6-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color" >
+<p>You can read about our cookies and privacy settings in detail on our Privacy Policy Page. </p>
+<a href='https://samsupport.net/your-privacy' target='_blank'>Your Privacy</a>
+
+</div>
+</div>
+</section>
+</div>
+<div class="avia-cookie-consent-modal-buttons-wrap"><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-3  avia-cookie-close-bar avia-cookie-consent-modal-button'  title="Allow to use cookies, you always can modify used cookies and services" >Accept settings</a><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-4 av-extra-cookie-btn avia-cookie-consent-modal-button avia-cookie-hide-notification'  title="Do not allow to use cookies or services - some functionality on our site might not work as expected." >Hide notification only</a></div></div></div>	<noscript>
+		<img src="https://notify.fedaward.org/mtracking.gif?d=YTo0OntzOjg6Imxhbmd1YWdlIjtzOjU6ImVuX1VTIjtzOjg6InBhZ2VfdXJsIjtzOjEwOToiaHR0cHM6Ly9zYW1zdXBwb3J0Lm5ldC9yZWdpc3RyYXRpb25zLzAwMzg1MjkxMD9yZWdpc3RyYXRpb25zPTAwMzg1MjkxMCZwb3N0X3R5cGU9cmVnaXN0cmF0aW9ucyZuYW1lPTAwMzg1MjkxMCI7czoxMDoicGFnZV90aXRsZSI7czo1NzoiSU5URVJOQVRJT05BTCBUWVBFV1JJVEVSIEVYQ0hBTkdFIElOQyAmIzgyMTE7IFNBTSBTdXBwb3J0IjtzOjg6InJlZmVycmVyIjtzOjEwOToiaHR0cHM6Ly9zYW1zdXBwb3J0Lm5ldC9yZWdpc3RyYXRpb25zLzAwMzg1MjkxMD9yZWdpc3RyYXRpb25zPTAwMzg1MjkxMCZwb3N0X3R5cGU9cmVnaXN0cmF0aW9ucyZuYW1lPTAwMzg1MjkxMCI7fQ%3D%3D" style="display:none;" alt="Mautic Tags" />
+	</noscript>
+	
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://samsupport.net/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://samsupport.net/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://samsupport.net/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.samsupport.net/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia.js?ver=4.8.6.1' id='avia-default-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/shortcodes.js?ver=4.8.6.1' id='avia-shortcodes-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.js?ver=5.8' id='avia-module-audioplayer-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.js?ver=5.8' id='avia-module-contact-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=5.8' id='avia-module-slideshow-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.js?ver=5.8' id='avia-module-countdown-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=5.8' id='avia-module-gallery-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.js?ver=5.8' id='avia-module-gallery-hor-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.js?ver=5.8' id='avia-module-rotator-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.js?ver=5.8' id='avia-module-icongrid-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.js?ver=5.8' id='avia-module-iconlist-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.js?ver=5.8' id='avia-module-hotspot-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.js?ver=5.8' id='avia-module-magazine-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.js?ver=5.8' id='avia-module-isotope-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.js?ver=5.8' id='avia-module-masonry-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.js?ver=5.8' id='avia-module-menu-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.js?ver=5.8' id='avia-module-notification-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.js?ver=5.8' id='avia-module-numbers-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.js?ver=5.8' id='avia-module-portfolio-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.js?ver=5.8' id='avia-module-progress-bar-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=5.8' id='avia-module-slideshow-video-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.js?ver=5.8' id='avia-module-slideshow-accordion-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.js?ver=5.8' id='avia-module-slideshow-fullscreen-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.js?ver=5.8' id='avia-module-slideshow-ls-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.js?ver=5.8' id='avia-module-tabsection-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=5.8' id='avia-module-tabs-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=5.8' id='avia-module-testimonials-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.js?ver=5.8' id='avia-module-timeline-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=5.8' id='avia-module-toggles-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=5.8' id='avia-module-video-js'></script>
+<script type='text/javascript' id='theme-my-login-js-extra'>
+/* <![CDATA[ */
+var themeMyLogin = {"action":"","errors":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/plugins/theme-my-login/assets/scripts/theme-my-login.min.js?ver=7.1.3' id='theme-my-login-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-snippet-hamburger-menu.js?ver=4.8.6.1' id='avia-hamburger-menu-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.8.6.1' id='avia-popup-js-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=4.8.6.1' id='avia-lightbox-activation-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=4.8.6.1' id='avia-sticky-header-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=4.8.6.1' id='avia-widget-js-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.js?ver=4.8.6.1' id='avia_blocks_front_script-js'></script>
+<script type='text/javascript' id='avia-cookie-js-js-extra'>
+/* <![CDATA[ */
+var AviaPrivacyCookieConsent = {"?":"Usage unknown","aviaCookieConsent":"Use and storage of Cookies has been accepted - restrictions set in other cookies","aviaPrivacyRefuseCookiesHideBar":"Hide cookie message bar on following page loads and refuse cookies if not allowed - aviaPrivacyEssentialCookiesEnabled must be set","aviaPrivacyEssentialCookiesEnabled":"Allow storage of site essential cookies and other cookies and use of features if not opt out","aviaPrivacyVideoEmbedsDisabled":"Do not allow video embeds","aviaPrivacyGoogleTrackingDisabled":"needed to remove cookie _gat_ (Stores information needed by Google Analytics)","aviaPrivacyGoogleWebfontsDisabled":"Do not allow Google Webfonts","aviaPrivacyGoogleMapsDisabled":"Do not allow Google Maps","aviaPrivacyGoogleReCaptchaDisabled":"Do not allow Google reCaptcha","aviaPrivacyMustOptInSetting":"Settings are for users that must opt in for cookies and services","PHPSESSID":"Operating site internal cookie - Keeps track of your session","XDEBUG_SESSION":"Operating site internal cookie - PHP Debugger session cookie","wp-settings*":"Operating site internal cookie","wordpress*":"Operating site internal cookie","tk_ai*":"Shop internal cookie","woocommerce*":"Shop internal cookie","wp_woocommerce*":"Shop internal cookie","wp-wpml*":"Needed to manage different languages","_ga":"Stores information needed by Google Analytics","_gid":"Stores information needed by Google Analytics","_gat_*":"Stores information needed by Google Analytics"};
+var AviaPrivacyCookieAdditionalData = {"cookie_refuse_button_alert":"When refusing all cookies this site might not be able to work as expected. Please check our settings page and opt out for cookies or functions you do not want to use and accept cookies. You will be shown this message every time you open a new window or a new tab.\\n\\nAre you sure you want to continue?","no_cookies_found":"No accessable cookies found in domain","admin_keep_cookies":["PHPSESSID","wp-*","wordpress*","XDEBUG*"],"remove_custom_cookies":{"1":{"cookie_name":"_ga","cookie_path":"\/","cookie_content":"Google Analytics Cookie","cookie_info_desc":"Stores information needed by Google Analytics","cookie_compare_action":"","avia_cookie_name":"aviaPrivacyGoogleTrackingDisabled"},"2":{"cookie_name":"_gid","cookie_path":"\/","cookie_content":"Google Analytics Cookie","cookie_info_desc":"Stores information needed by Google Analytics","cookie_compare_action":"","avia_cookie_name":"aviaPrivacyGoogleTrackingDisabled"},"3":{"cookie_name":"_gat_","cookie_path":"\/","cookie_content":"Google Analytics Cookie","cookie_info_desc":"Stores information needed by Google Analytics","cookie_compare_action":"starts_with","avia_cookie_name":"aviaPrivacyGoogleTrackingDisabled"}},"no_lightbox":"We need a lightbox to show the modal popup. Please enable the built in lightbox in Theme Options Tab or include your own modal window plugin.\\n\\nYou need to connect this plugin in JavaScript with callback wrapper functions - see avia_cookie_consent_modal_callback in file enfold\\js\\avia-snippet-cookieconsent.js "};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://samsupport.net/wp-content/themes/enfold/js/avia-snippet-cookieconsent.js?ver=4.8.6.1' id='avia-cookie-js-js'></script>
+<script type='text/javascript' src='https://samsupport.net/wp-includes/js/wp-embed.min.js?ver=5.8' id='wp-embed-js'></script>
+<script type='text/javascript'>function av_privacy_cookie_setter( cookie_name ) {var cookie_check = jQuery('html').hasClass('av-cookies-needs-opt-in') || jQuery('html').hasClass('av-cookies-can-opt-out');var toggle = jQuery('.' + cookie_name);toggle.each(function(){var container = jQuery(this).closest('.av-toggle-switch');if( cookie_check && ! document.cookie.match(/aviaCookieConsent/) ){this.checked = container.hasClass( 'av-cookie-default-checked' );}else if( cookie_check && document.cookie.match(/aviaCookieConsent/) && ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) && cookie_name != 'aviaPrivacyRefuseCookiesHideBar' ){if( cookie_name == 'aviaPrivacyEssentialCookiesEnabled' ){this.checked = false;}else{this.checked = container.hasClass( 'av-cookie-default-checked' );}}else{if( container.hasClass('av-cookie-save-checked') ){this.checked = document.cookie.match(cookie_name) ? true : false;}else{this.checked = document.cookie.match(cookie_name) ? false : true;}}});jQuery('.' + 'av-switch-' + cookie_name).addClass('active');toggle.on('click', function(){/* sync if more checkboxes exist because user added them to normal page content */var check = this.checked;jQuery('.' + cookie_name).each( function(){this.checked = check;});var silent_accept_cookie = jQuery('html').hasClass('av-cookies-user-silent-accept');if( ! silent_accept_cookie && cookie_check && ! document.cookie.match(/aviaCookieConsent/) || sessionStorage.getItem( 'aviaCookieRefused' ) ){return;}var container = jQuery(this).closest('.av-toggle-switch');var action = '';if( container.hasClass('av-cookie-save-checked') ){action = this.checked ? 'save' : 'remove';}else{action = this.checked ? 'remove' : 'save';}if('remove' == action){document.cookie = cookie_name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';}else{var theDate = new Date();var oneYearLater = new Date( theDate.getTime() + 31536000000 );document.cookie = cookie_name + '=true; Path=/; Expires='+oneYearLater.toGMTString()+';';}});}; av_privacy_cookie_setter('aviaPrivacyRefuseCookiesHideBar');  av_privacy_cookie_setter('aviaPrivacyEssentialCookiesEnabled');  av_privacy_cookie_setter('aviaPrivacyGoogleTrackingDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleWebfontsDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleMapsDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleReCaptchaDisabled');  av_privacy_cookie_setter('aviaPrivacyVideoEmbedsDisabled'); </script>
+<!-- google webfont font replacement -->
+
+			<script type='text/javascript'>
+
+				(function() {
+					
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+					
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+					
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= '//fonts.googleapis.com/css?family=Open+Sans:400,600';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+			
+			</script>
+			
+<script type='text/javascript'>
+			
+	(function($) {
+					
+			/*	check if google analytics tracking is disabled by user setting via cookie - or user must opt in.	*/
+					
+			var analytics_code = "\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script id='google_analytics_script' class='google_analytics_scripts' async src='https:\/\/www.googletagmanager.com\/gtag\/js?id=UA-110119346-1'><\/script>\n<script class='google_analytics_scripts' type='text\/javascript'>\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'UA-110119346-1', { 'anonymize_ip': true });\n<\/script>\n".replace(/\"/g, '"' );
+			var html = document.getElementsByTagName('html')[0];
+
+			$('html').on( 'avia-cookie-settings-changed', function(e) 
+			{
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+					var script_loaded = $( 'script.google_analytics_scripts' );
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleTrackingDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( ! allow_continue )
+					{ 
+//						window['ga-disable-UA-110119346-1'] = true;
+						if( script_loaded.length > 0 )
+						{
+							script_loaded.remove();
+						}
+					}
+					else
+					{
+						if( script_loaded.length == 0 )
+						{
+							$('head').append( analytics_code );
+						}
+					}
+			});
+			
+			$('html').trigger( 'avia-cookie-settings-changed' );
+						
+	})( jQuery );
+				
+</script></body>
+</html>

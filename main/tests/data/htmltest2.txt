@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+		<title>Home - Sowers Reap International</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- This site is optimized with the Yoast SEO plugin v12.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://sowersreap.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Sowers Reap International" />
+<meta property="og:description" content="sowers@sowersreap.com Facebook-f Instagram Twitter Pinterest Youtube Comment fun&#038;educational Sowers Reap International has designed a fun board game to help families and business achieve moral and monetary consistency with in their professional lives and financial endeavors. We seek to empower individuals, both financially and spiritually, and we look to Luke 6:38 guidance for developing a robust community that lives &hellip; Continue reading &quot;Home&quot;" />
+<meta property="og:url" content="https://sowersreap.com/" />
+<meta property="og:site_name" content="Sowers Reap International" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="sowers@sowersreap.com Facebook-f Instagram Twitter Pinterest Youtube Comment fun&#038;educational Sowers Reap International has designed a fun board game to help families and business achieve moral and monetary consistency with in their professional lives and financial endeavors. We seek to empower individuals, both financially and spiritually, and we look to Luke 6:38 guidance for developing a robust community that lives &hellip; Continue reading &quot;Home&quot;" />
+<meta name="twitter:title" content="Home - Sowers Reap International" />
+<meta name="twitter:image" content="https://sowersreap.com/wp-content/uploads/2019/08/SR_logo_400-e1369427174262.png" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://sowersreap.com/#website","url":"https://sowersreap.com/","name":"Sowers Reap International","potentialAction":{"@type":"SearchAction","target":"https://sowersreap.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://sowersreap.com/#primaryimage","url":"https://sowersreap.com/wp-content/uploads/2019/08/SR_logo_400-e1369427174262.png","width":300,"height":185},{"@type":"WebPage","@id":"https://sowersreap.com/#webpage","url":"https://sowersreap.com/","inLanguage":"en-US","name":"Home - Sowers Reap International","isPartOf":{"@id":"https://sowersreap.com/#website"},"primaryImageOfPage":{"@id":"https://sowersreap.com/#primaryimage"},"datePublished":"2019-08-12T17:09:09+00:00","dateModified":"2019-09-05T02:58:21+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//poynt.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sowers Reap International &raquo; Feed" href="https://sowersreap.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sowers Reap International &raquo; Comments Feed" href="https://sowersreap.com/comments/feed/" />
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v6.7.0 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+		<!-- Note: ExactMetrics is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the ExactMetrics settings panel. -->
+					<!-- No UA code set -->
+				<!-- / Google Analytics by ExactMetrics -->
+				<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sowersreap.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://sowersreap.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link rel='stylesheet' id='wc-block-style-css'  href='https://sowersreap.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='pdfemb-gutenberg-block-backend-js-css'  href='https://sowersreap.com/wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css?ver=5.8' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://sowersreap.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.7.0' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://sowersreap.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.7.0' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//sowersreap.com/wp-content/plugins/woocommerce/assets/css/twenty-nineteen.css?ver=3.7.0' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://sowersreap.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.css?ver=4.8.6' media='all' />
+<link rel='stylesheet' id='twentynineteen-style-css'  href='https://sowersreap.com/wp-content/themes/twentynineteen/style.css?ver=2.1' media='all' />
+<link rel='stylesheet' id='twentynineteen-print-style-css'  href='https://sowersreap.com/wp-content/themes/twentynineteen/print.css?ver=2.1' media='print' />
+<link rel='stylesheet' id='mwc-payments-payment-form-css'  href='https://sowersreap.com/wp-content/mu-plugins/gd-system-plugin/plugins/mwc-core/assets/css/payments/payment-form.css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://sowersreap.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.4.0' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://sowersreap.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.7.3' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://sowersreap.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.7.3' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://sowersreap.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.6.2' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://sowersreap.com/wp-content/uploads/elementor/css/global.css?ver=1569905892' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css'  href='https://sowersreap.com/wp-content/uploads/elementor/css/post-6.css?ver=1569905892' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLobster%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.8' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://sowersreap.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.9.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='https://sowersreap.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.9.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://sowersreap.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.9.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://sowersreap.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.9.0' media='all' />
+<script src='https://sowersreap.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://sowersreap.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://poynt.net/snippet/poynt-collect/bundle.js' id='poynt-collect-sdk-js'></script>
+<script id='mwc-payments-poynt-payment-form-js-extra'>
+var poyntPaymentFormI18n = {"defaultErrorMessage":"An error occurred, please try again or try an alternate form of payment."};
+</script>
+<script src='https://sowersreap.com/wp-content/mu-plugins/gd-system-plugin/plugins/mwc-core/assets/js/payments/frontend/poynt.js' id='mwc-payments-poynt-payment-form-js'></script>
+<link rel="https://api.w.org/" href="https://sowersreap.com/wp-json/" /><link rel="alternate" type="application/json" href="https://sowersreap.com/wp-json/wp/v2/pages/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sowersreap.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sowersreap.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8" />
+<meta name="generator" content="WooCommerce 3.7.0" />
+<link rel='shortlink' href='https://sowersreap.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://sowersreap.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsowersreap.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sowersreap.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsowersreap.com%2F&#038;format=xml" />
+
+	<style type="text/css" id="custom-theme-colors" >
+		
+		/*
+		 * Set background for:
+		 * - featured image :before
+		 * - featured image :before
+		 * - post thumbmail :before
+		 * - post thumbmail :before
+		 * - Submenu
+		 * - Sticky Post
+		 * - buttons
+		 * - WP Block Button
+		 * - Blocks
+		 */
+		.image-filters-enabled .site-header.featured-image .site-featured-image:before,
+		.image-filters-enabled .site-header.featured-image .site-featured-image:after,
+		.image-filters-enabled .entry .post-thumbnail:before,
+		.image-filters-enabled .entry .post-thumbnail:after,
+		.main-navigation .sub-menu,
+		.sticky-post,
+		.entry .entry-content .wp-block-button .wp-block-button__link:not(.has-background),
+		.entry .button, button, input[type="button"], input[type="reset"], input[type="submit"],
+		.entry .entry-content > .has-primary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].has-primary-background-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-primary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color.has-primary-background-color,
+		.entry .entry-content .wp-block-file .wp-block-file__button {
+			background-color: hsl( 49, 100%, 33% ); /* base: #0073a8; */
+		}
+
+		/*
+		 * Set Color for:
+		 * - all links
+		 * - main navigation links
+		 * - Post navigation links
+		 * - Post entry meta hover
+		 * - Post entry header more-link hover
+		 * - main navigation svg
+		 * - comment navigation
+		 * - Comment edit link hover
+		 * - Site Footer Link hover
+		 * - Widget links
+		 */
+		a,
+		a:visited,
+		.main-navigation .main-menu > li,
+		.main-navigation ul.main-menu > li > a,
+		.post-navigation .post-title,
+		.entry .entry-meta a:hover,
+		.entry .entry-footer a:hover,
+		.entry .entry-content .more-link:hover,
+		.main-navigation .main-menu > li > a + svg,
+		.comment .comment-metadata > a:hover,
+		.comment .comment-metadata .comment-edit-link:hover,
+		#colophon .site-info a:hover,
+		.widget a,
+		.entry .entry-content .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color),
+		.entry .entry-content > .has-primary-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-primary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-primary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-primary-color p {
+			color: hsl( 49, 100%, 33% ); /* base: #0073a8; */
+		}
+
+		/*
+		 * Set border color for:
+		 * wp block quote
+		 * :focus
+		 */
+		blockquote,
+		.entry .entry-content blockquote,
+		.entry .entry-content .wp-block-quote:not(.is-large),
+		.entry .entry-content .wp-block-quote:not(.is-style-large),
+		input[type="text"]:focus,
+		input[type="email"]:focus,
+		input[type="url"]:focus,
+		input[type="password"]:focus,
+		input[type="search"]:focus,
+		input[type="number"]:focus,
+		input[type="tel"]:focus,
+		input[type="range"]:focus,
+		input[type="date"]:focus,
+		input[type="month"]:focus,
+		input[type="week"]:focus,
+		input[type="time"]:focus,
+		input[type="datetime"]:focus,
+		input[type="datetime-local"]:focus,
+		input[type="color"]:focus,
+		textarea:focus {
+			border-color: hsl( 49, 100%, 33% ); /* base: #0073a8; */
+		}
+
+		.gallery-item > div > a:focus {
+			box-shadow: 0 0 0 2px hsl( 49, 100%, 33% ); /* base: #0073a8; */
+		}
+
+		/* Hover colors */
+		a:hover, a:active,
+		.main-navigation .main-menu > li > a:hover,
+		.main-navigation .main-menu > li > a:hover + svg,
+		.post-navigation .nav-links a:hover,
+		.post-navigation .nav-links a:hover .post-title,
+		.author-bio .author-description .author-link:hover,
+		.entry .entry-content > .has-secondary-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-secondary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-secondary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-secondary-color p,
+		.comment .comment-author .fn a:hover,
+		.comment-reply-link:hover,
+		.comment-navigation .nav-previous a:hover,
+		.comment-navigation .nav-next a:hover,
+		#cancel-comment-reply-link:hover,
+		.widget a:hover {
+			color: hsl( 49, 100%, 23% ); /* base: #005177; */
+		}
+
+		.main-navigation .sub-menu > li > a:hover,
+		.main-navigation .sub-menu > li > a:focus,
+		.main-navigation .sub-menu > li > a:hover:after,
+		.main-navigation .sub-menu > li > a:focus:after,
+		.main-navigation .sub-menu > li > .menu-item-link-return:hover,
+		.main-navigation .sub-menu > li > .menu-item-link-return:focus,
+		.main-navigation .sub-menu > li > a:not(.submenu-expand):hover,
+		.main-navigation .sub-menu > li > a:not(.submenu-expand):focus,
+		.entry .entry-content > .has-secondary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].has-secondary-background-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-secondary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color.has-secondary-background-color {
+			background-color: hsl( 49, 100%, 23% ); /* base: #005177; */
+		}
+
+		/* Text selection colors */
+		::selection {
+			background-color: hsl( 49, 50%, 90% ); /* base: #005177; */
+		}
+		::-moz-selection {
+			background-color: hsl( 49, 50%, 90% ); /* base: #005177; */
+		}
+			.onsale,
+			.woocommerce-info,
+			.woocommerce-store-notice {
+				background-color: hsl( 49, 100%, 33% );
+			}
+
+			.woocommerce-tabs ul li.active a {
+				color: hsl( 49, 100%, 33% );
+				box-shadow: 0 2px 0 hsl( 49, 100%, 33% );
+			}
+			</style>
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="home page-template page-template-elementor_canvas page page-id-6 wp-embed-responsive theme-twentynineteen woocommerce-no-js singular image-filters-enabled elementor-default elementor-template-canvas elementor-page elementor-page-6">
+			<div data-elementor-type="wp-post" data-elementor-id="6" class="elementor elementor-6" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-5d41f2f2 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="5d41f2f2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4a6ffa7a elementor-column elementor-col-50 elementor-top-column" data-id="4a6ffa7a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-435c305c elementor-icon-list--layout-inline elementor-mobile-align-center elementor-hidden-phone elementor-widget elementor-widget-icon-list" data-id="435c305c" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">sowers@sowersreap.com</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-35966033 elementor-column elementor-col-50 elementor-top-column" data-id="35966033" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-79d793b elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="79d793b" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a href="https://www.facebook.com/sowers.reap" class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-5646027" target="_blank">
+					<span class="elementor-screen-only">Facebook-f</span>
+					<i class="fab fa-facebook-f"></i>				</a>
+							<a href="http://instagram.com/sowersreap" class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-f76bb4d" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+							<a href="http://www.twitter.com/Sowersreap" class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-72bc942" target="_blank">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fab fa-twitter"></i>				</a>
+							<a href="http://www.pinterest.com/sowersreap/" class="elementor-icon elementor-social-icon elementor-social-icon-pinterest elementor-repeater-item-b6cd3c1" target="_blank">
+					<span class="elementor-screen-only">Pinterest</span>
+					<i class="fab fa-pinterest"></i>				</a>
+							<a href="https://www.youtube.com/channel/UCVPEenG7QreI3ytj3GjtEbg" class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-4b27cd1" target="_blank">
+					<span class="elementor-screen-only">Youtube</span>
+					<i class="fab fa-youtube"></i>				</a>
+							<a href="https://www.webtalk.co/shevon.sampson.1" class="elementor-icon elementor-social-icon elementor-social-icon-comment elementor-repeater-item-455e31f" target="_blank">
+					<span class="elementor-screen-only">Comment</span>
+					<i class="fas fa-comment"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-15ba0d32 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="15ba0d32" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4a4d22e9 elementor-column elementor-col-100 elementor-top-column" data-id="4a4d22e9" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a724de4 elementor-widget elementor-widget-image" data-id="a724de4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="185" src="https://sowersreap.com/wp-content/uploads/2019/08/SR_logo_400-e1369427174262.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-20263022 elementor-nav-menu__align-center elementor-nav-menu--dropdown-mobile elementor-nav-menu--indicator-classic elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="20263022" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-double-line e--animation-drop-in"><ul id="menu-1-20263022" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-471"><a href="https://sowersreap.com/" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="https://sowersreap.com/products/" class="elementor-item">Products</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="https://sowersreap.com/fundraiser/" class="elementor-item">Fundraiser</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://sowersreap.com/blog/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a href="https://sowersreap.com/prayers-testimonies/" class="elementor-item">Prayers &#038; Testimonies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="https://sowersreap.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://sowersreap.com/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"><ul id="menu-2-20263022" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-471"><a href="https://sowersreap.com/" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="https://sowersreap.com/products/" class="elementor-item">Products</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="https://sowersreap.com/fundraiser/" class="elementor-item">Fundraiser</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://sowersreap.com/blog/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a href="https://sowersreap.com/prayers-testimonies/" class="elementor-item">Prayers &#038; Testimonies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="https://sowersreap.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://sowersreap.com/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6d21642 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="6d21642" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen src="https://www.youtube.com/embed/eLVV8Gg49Go?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=1"></iframe>				<div class="elementor-custom-embed-image-overlay" style="background-image: url(https://sowersreap.com/wp-content/uploads/2019/08/finial-box-top1-2.jpg);">
+																<div class="elementor-custom-embed-play" role="button">
+							<i class="eicon-play" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Play Video</span>
+						</div>
+									</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-a81ee73 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="a81ee73" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1b77166e elementor-invisible elementor-column elementor-col-50 elementor-top-column" data-id="1b77166e" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-312ae356 elementor-widget elementor-widget-heading" data-id="312ae356" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">fun<br>&<br>educational</h3>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-726b3fc6 elementor-invisible elementor-column elementor-col-50 elementor-top-column" data-id="726b3fc6" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1a6a5252 elementor-widget elementor-widget-image" data-id="1a6a5252" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="640" height="342" src="https://sowersreap.com/wp-content/uploads/2019/08/board_game.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://sowersreap.com/wp-content/uploads/2019/08/board_game.jpg 898w, https://sowersreap.com/wp-content/uploads/2019/08/board_game-450x241.jpg 450w, https://sowersreap.com/wp-content/uploads/2019/08/board_game-300x160.jpg 300w, https://sowersreap.com/wp-content/uploads/2019/08/board_game-768x411.jpg 768w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-36d7fa84 elementor-section-full_width elementor-reverse-mobile elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="36d7fa84" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-666f414c elementor-invisible elementor-column elementor-col-100 elementor-top-column" data-id="666f414c" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3ef3fe2e elementor-widget elementor-widget-text-editor" data-id="3ef3fe2e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Sowers Reap International has designed a fun board game to help families and business achieve moral and monetary consistency with in their professional lives and financial endeavors. We seek to empower individuals, both financially and spiritually, and we look to Luke 6:38 guidance for developing a robust community that lives right with God and prospers in every area by putting the kingdom of God first. We believe that seeking the kingdom first combined with honest work, personal integrity and following the leading of the Holy Spirit are crucial to achieving financial stability. Let us walk you through the steps toward prosperity using the Word of God.</p><p>With Sowers Reap International, you will find a supportive community of bible believing sowers. Connect and thrive through our workshops, live events, email newsletters, and online blog, and read more about our popular new fun board game.</p><p> </p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-67e82e9a elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="67e82e9a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Read more</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-f2ec160 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f2ec160" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-10f820e6 elementor-column elementor-col-100 elementor-top-column" data-id="10f820e6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5fce3b11 elementor-widget elementor-widget-heading" data-id="5fce3b11" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Reviews for<br><i>2 Sow or Not 2 Sow</i><br>Board Game</p>		</div>
+				</div>
+				<section class="elementor-element elementor-element-75d3b345 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="75d3b345" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e3c1c16 elementor-column elementor-col-33 elementor-inner-column" data-id="e3c1c16" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-42828fb elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="42828fb" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-quote-right"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span ></span>
+				</h3>
+								<p class="elementor-icon-box-description">My kids love this game! And I love that they're learning financial responsibility through faith!</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-62da90d1 elementor-widget elementor-widget-image" data-id="62da90d1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="168" height="168" src="https://sowersreap.com/wp-content/uploads/2019/08/6.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://sowersreap.com/wp-content/uploads/2019/08/6.png 168w, https://sowersreap.com/wp-content/uploads/2019/08/6-100x100.png 100w, https://sowersreap.com/wp-content/uploads/2019/08/6-150x150.png 150w" sizes="(max-width: 168px) 100vw, 168px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2520f548 elementor-column elementor-col-33 elementor-inner-column" data-id="2520f548" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6f1b710c elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="6f1b710c" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-quote-right"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span ></span>
+				</h3>
+								<p class="elementor-icon-box-description">It's a lot more fun than we thought it would be!</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1ad04167 elementor-widget elementor-widget-image" data-id="1ad04167" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="168" height="168" src="https://sowersreap.com/wp-content/uploads/2019/08/7.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://sowersreap.com/wp-content/uploads/2019/08/7.png 168w, https://sowersreap.com/wp-content/uploads/2019/08/7-100x100.png 100w, https://sowersreap.com/wp-content/uploads/2019/08/7-150x150.png 150w" sizes="(max-width: 168px) 100vw, 168px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-36144155 elementor-column elementor-col-33 elementor-inner-column" data-id="36144155" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4a123e14 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="4a123e14" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-quote-right"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span ></span>
+				</h3>
+								<p class="elementor-icon-box-description">If only 2 Sow or Not 2 Sow <br>was available when I was growing up. . .</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-bed36fc elementor-widget elementor-widget-image" data-id="bed36fc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="168" height="168" src="https://sowersreap.com/wp-content/uploads/2019/08/8.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://sowersreap.com/wp-content/uploads/2019/08/8.png 168w, https://sowersreap.com/wp-content/uploads/2019/08/8-100x100.png 100w, https://sowersreap.com/wp-content/uploads/2019/08/8-150x150.png 150w" sizes="(max-width: 168px) 100vw, 168px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4bf95c3c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4bf95c3c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7ca8c045 elementor-column elementor-col-100 elementor-top-column" data-id="7ca8c045" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6245ec7 elementor-widget elementor-widget-heading" data-id="6245ec7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Lastest Blog Posts</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b30e97f elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-posts" data-id="b30e97f" data-element_type="widget" data-settings="{&quot;cards_columns&quot;:&quot;3&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-grid elementor-posts--skin-cards">
+				<article class="elementor-post elementor-grid-item post-185 post type-post status-publish format-standard has-post-thumbnail hentry category-adults category-kids entry">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://sowersreap.com/2018/12/01/god-provisions-based-on-his-timing/">
+			<div class="elementor-post__thumbnail"><img width="300" height="225" src="https://sowersreap.com/wp-content/uploads/2018/12/SowingSeeds3-300x225.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://sowersreap.com/wp-content/uploads/2018/12/SowingSeeds3-300x225.png 300w, https://sowersreap.com/wp-content/uploads/2018/12/SowingSeeds3.png 378w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://sowersreap.com/2018/12/01/god-provisions-based-on-his-timing/">
+				God Provisions Based on His Timing			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Do you believe that God provisions are what we need? Sometimes, our own desires and wants cloud what it is that we truly need. Maybe</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://sowersreap.com/2018/12/01/god-provisions-based-on-his-timing/">
+				Read More »			</a>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-211 post type-post status-publish format-standard has-post-thumbnail hentry category-adults category-parents category-uncategorized entry">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://sowersreap.com/2018/11/01/sowing-seeds/">
+			<div class="elementor-post__thumbnail"><img width="300" height="225" src="https://sowersreap.com/wp-content/uploads/2018/11/meadow_flowers_bloom-1024x768-300x225.jpg" class="attachment-medium size-medium" alt="sowing seeds" loading="lazy" srcset="https://sowersreap.com/wp-content/uploads/2018/11/meadow_flowers_bloom-1024x768-300x225.jpg 300w, https://sowersreap.com/wp-content/uploads/2018/11/meadow_flowers_bloom-1024x768-450x338.jpg 450w, https://sowersreap.com/wp-content/uploads/2018/11/meadow_flowers_bloom-1024x768-768x576.jpg 768w, https://sowersreap.com/wp-content/uploads/2018/11/meadow_flowers_bloom-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://sowersreap.com/2018/11/01/sowing-seeds/">
+				Sowing Seeds			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>“The point is this: whoever sows sparingly will also reap sparingly, and whoever sows bountifully will reap bountifully.” 2 Corinthians 9:6 What does it mean</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://sowersreap.com/2018/11/01/sowing-seeds/">
+				Read More »			</a>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-170 post type-post status-publish format-standard has-post-thumbnail hentry category-adults category-kids category-parents category-teens category-welcome entry">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://sowersreap.com/2018/10/01/welcome-to-the-sowers-reap-blog/">
+			<div class="elementor-post__thumbnail"><img width="300" height="300" src="https://sowersreap.com/wp-content/uploads/2018/10/srrrrrrr-300x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://sowersreap.com/wp-content/uploads/2018/10/srrrrrrr-300x300.jpg 300w, https://sowersreap.com/wp-content/uploads/2018/10/srrrrrrr-100x100.jpg 100w, https://sowersreap.com/wp-content/uploads/2018/10/srrrrrrr-150x150.jpg 150w, https://sowersreap.com/wp-content/uploads/2018/10/srrrrrrr.jpg 360w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://sowersreap.com/2018/10/01/welcome-to-the-sowers-reap-blog/">
+				Welcome to the Sowers Reap Blog			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Welcome to the blog for Sowers Reap International. We are committed to helping parents and families teach their kids about money in order to become</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://sowersreap.com/2018/10/01/welcome-to-the-sowers-reap-blog/">
+				Read More »			</a>
+				</div>
+					</div>
+		</article>
+				</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3e649c02 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3e649c02" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-17131298 elementor-column elementor-col-100 elementor-top-column" data-id="17131298" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-105786f8 elementor-widget elementor-widget-heading" data-id="105786f8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">"Give and it shall be given to you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom…"<br>~ Luke 6:38</h4>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-2d558822 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2d558822" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-58e990ac elementor-column elementor-col-100 elementor-top-column" data-id="58e990ac" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3816b4e2 elementor-widget elementor-widget-heading" data-id="3816b4e2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Subscribe for updates.</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3a60f706 elementor-widget elementor-widget-text-editor" data-id="3a60f706" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Subscribe to the Sowers Reap International newsletter to stay up-to-date on news, products, and fundraising information.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-74cf17f6 elementor-widget elementor-widget-shortcode" data-id="74cf17f6" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.6 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-1262 mc4wp-form-theme mc4wp-form-theme-dark" method="post" data-id="1262" data-name="Subscribe" ><div class="mc4wp-form-fields"><center>
+<p>
+	<input type="email" name="EMAIL" placeholder="Email Address" required />
+	<input type="submit" value="Subscribe" />
+</p>
+  </center></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1629737993" /><input type="hidden" name="_mc4wp_form_id" value="1262" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-1896db94 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="1896db94" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-46bf3edf elementor-column elementor-col-100 elementor-top-column" data-id="46bf3edf" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-34457417 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="34457417" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a href="https://www.facebook.com/sowers.reap" class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-993ef04" target="_blank">
+					<span class="elementor-screen-only">Facebook-f</span>
+					<i class="fab fa-facebook-f"></i>				</a>
+							<a href="http://instagram.com/sowersreap" class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-1c28245" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+							<a href="http://www.twitter.com/Sowersreap" class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-a229ff5" target="_blank">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fab fa-twitter"></i>				</a>
+							<a href="http://www.pinterest.com/sowersreap/" class="elementor-icon elementor-social-icon elementor-social-icon-pinterest elementor-repeater-item-f4f16ac" target="_blank">
+					<span class="elementor-screen-only">Pinterest</span>
+					<i class="fab fa-pinterest"></i>				</a>
+							<a href="https://www.youtube.com/channel/UCVPEenG7QreI3ytj3GjtEbg" class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-11895d5" target="_blank">
+					<span class="elementor-screen-only">Youtube</span>
+					<i class="fab fa-youtube"></i>				</a>
+							<a href="https://www.webtalk.co/shevon.sampson.1" class="elementor-icon elementor-social-icon elementor-social-icon-comment elementor-repeater-item-3dc4063" target="_blank">
+					<span class="elementor-screen-only">Comment</span>
+					<i class="fas fa-comment"></i>				</a>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-70727070 elementor-widget elementor-widget-text-editor" data-id="70727070" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>© 2019 Sowers Reap International. All Rights Reserved.</p><p>Sowers Reap International Promotes Financial Prosperity and Education for Christian Businesses, Entrepreneurs, and Families.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		<script>(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A300%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fsowersreap.com%5C%2Fwp-content%5C%2Fuploads%5C%2Fwoocommerce-placeholder-300x300.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Afalse%2C%22limitTags%22%3Afalse%2C%22hasTags%22%3Afalse%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A23%2C%22name%22%3A%22Uncategorized%22%2C%22slug%22%3A%22uncategorized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A23%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fsowersreap.com%5C%2Fproduct-category%5C%2Funcategorized%5C%2F%22%7D%2C%7B%22term_id%22%3A26%2C%22name%22%3A%22Board%20Game%22%2C%22slug%22%3A%22board-game%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A26%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fsowersreap.com%5C%2Fproduct-category%5C%2Fboard-game%5C%2F%22%7D%2C%7B%22term_id%22%3A27%2C%22name%22%3A%22Books%22%2C%22slug%22%3A%22books%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A27%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fsowersreap.com%5C%2Fproduct-category%5C%2Fbooks%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fsowersreap.com%5C%2F%22%7D' ) );
+		</script>
+		<script src='https://sowersreap.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/sowersreap.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='https://sowersreap.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.7.0' id='wc-add-to-cart-js'></script>
+<script src='https://sowersreap.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://sowersreap.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.0' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_9dd1066cf1c0f45cb3eb229ea7a59e77","fragment_name":"wc_fragments_9dd1066cf1c0f45cb3eb229ea7a59e77","request_timeout":"5000"};
+</script>
+<script src='https://sowersreap.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.0' id='wc-cart-fragments-js'></script>
+<script src='https://sowersreap.com/wp-includes/js/wp-embed.min.js?ver=5.8' id='wp-embed-js'></script>
+<script src='https://sowersreap.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script src='https://sowersreap.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script defer src='https://sowersreap.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.8.6' id='mc4wp-forms-api-js'></script>
+<script src='https://sowersreap.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.7.3' id='elementor-frontend-modules-js'></script>
+<script src='https://sowersreap.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.6.2' id='elementor-sticky-js'></script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/sowersreap.com\/wp-admin\/admin-ajax.php","nonce":"eb99243db5","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+</script>
+<script src='https://sowersreap.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.6.2' id='elementor-pro-frontend-js'></script>
+<script src='https://sowersreap.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script src='https://sowersreap.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.3' id='elementor-dialog-js'></script>
+<script src='https://sowersreap.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://sowersreap.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6' id='swiper-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.7.3","urls":{"assets":"https:\/\/sowersreap.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":6,"title":"Home","excerpt":""}};
+</script>
+<script src='https://sowersreap.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.7.3' id='elementor-frontend-js'></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+window.mwc_payments_poynt_payment_form_handler = new MWCPaymentsPoyntPaymentFormHandler({"appId":"","businessId":"","customerAddress":{"firstName":"","lastName":"","line1":"","postcode":""},"isLoggingEnabled":false});
+ });
+</script>
+	</body>
+</html>
