@@ -200,7 +200,7 @@ public class GrelTestsModified extends RefineTest {
     }
 
     
-    // to demonstrate bug fixing for #xxxxxxxxxxxxxx
+    // CS427 Issue link:  https://github.com/OpenRefine/OpenRefine/issues/4121
     @Test
     public void testSerializerErrorstartsimple() throws ParsingException{
     	
@@ -212,7 +212,7 @@ public class GrelTestsModified extends RefineTest {
 
     }
     
-    // to demonstrate bug fixing for #xxxxxxxxxxxxxx
+    // CS427 Issue link:  https://github.com/OpenRefine/OpenRefine/issues/4121
     @Test
     public void testSerializerError() throws ParsingException, IOException{
     	
